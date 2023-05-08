@@ -1,0 +1,449 @@
+IGUI_UA = {
+
+		------------Dynamic Traits------------
+		
+	IGUI_PlayerText_PlantStudyDone = "Готово.",
+	IGUI_PlayerText_PlantStudyAlreadyDone = "Я вже вивчив це."
+	
+	
+		------------ScrapMods------------
+	
+	IGUI_CraftCategory_Weapons = "Зброя",
+	IGUI_CraftCategory_Scrapping = "Розбір",
+	IGUI_CraftCategory_Armor = "Броня",
+	IGUI_CraftCategory_Tailoring = "Шиття",
+	IGUI_ItemCat_Armor = "Броня"
+	
+		------------CraftHelperContinued------------
+	
+	IGUI_chc_context_onclick = "Craft Helper"
+    IGUI_AllowSpecialSearch = "Увімкнути спеціальні команди"
+    IGUI_AllowSpecialSearchTooltip = "Команди використовуються під час пошуку (клацніть на лупу зліва від панелі пошуку, щоб дізнатися більше)"
+    IGUI_ShowIcons = "Показувати іконки предметів"
+    IGUI_ShowIconsTooltip = "Показувати іконку результату рецепта/предмету у списку"
+    IGUI_ShowHidden = "Показувати приховані рецепти/предмети"
+    IGUI_ShowHiddenTooltip = "Елементи без DisplayName і рецепти з «IsHidden: true» у визначенні. <LINE> Перезавантажте збереження, щоб набуло чинності"
+    IGUI_CloseAllOnExit = "Закривати всі вкладки при виході"
+    IGUI_CloseAllOnExitTooltip = "Закрити всі вкладки елементів під час закриття вікна (за допомогою гарячої клавіші або натискання «x»)"
+    IGUI_ListFontSize = "Розмір шрифту"
+    IGUI_ListFontSizeTooltip = "Розмір шрифту списку рецептів (лівий стовпець)"
+    IGUI_RecipeSelectorModifier = "Кнопка вибору рецепта"
+    IGUI_RecipeSelectorModifierTooltip = "Клавіші-модифікатори, утримувані під час вибору рецептів (сполучення клавіш '%1' і '%2')"
+    IGUI_CategorySelectorModifier = "Кнопка вибору категорії"
+    IGUI_CategorySelectorModifierTooltip = "Клавіші-модифікатори, утримувані під час вибору категорій (сполучення клавіш '%1' і '%2')"
+    IGUI_TabSelectorModifier = "Кнопка вибору вкладки"
+    IGUI_TabSelectorModifierTooltip = "Клавіші-модифікатори, утримувані під час вибору вкладок (сполучення клавіш '%1' і '%2')"
+    IGUI_ShowRecipeModule = "Показати походження рецепта"
+    IGUI_ShowRecipeModuleTooltip = "Показати мод, звідки взявся рецепт. <LINE> Примітка: мод рецепта — це просто модуль, де цей рецепт було визначено (у файлі .txt). Деякі моди використовують модуль за замовчуванням ('Base')"
+    IGUI_ShowAllItemProps = "Показати всі атрибути предмета"
+    IGUI_ShowAllItemPropsTooltip = "Більшість атрибутів елемента зі значеннями за замовчуванням, по стандарту будуть приховані. Якщо вибрано, будуть показані всі атрибути"
+
+    IGUI_CHC_ItemCat_AlarmClockClothing = "Наручний годинник"
+    IGUI_CHC_ItemCat_Drainable = "Вичерпне"
+    IGUI_CHC_ItemCat_Map = "Мапа"
+    IGUI_CHC_ItemCat_Moveable = "Меблі"
+    IGUI_CHC_ItemCat_Normal = "Різне"
+    IGUI_CHC_ItemCat_Radio = "Радіо"
+    IGUI_CHC_ItemCat_Key = "Ключі"
+    IGUI_new_tab = "Відкрити нову вкладку"
+    IGUI_find_item = "Знайти предмет"
+    IGUI_mod_chc = "Мод"
+    IGUI_tab_ctx_close_others = "Закрити інші"
+    IGUI_no_recipes = "Рецептів не знайдено"
+    IGUI_ShowFavItemsInventory = "Показати іконки обраних предметів"
+    IGUI_ShowFavItemsInventoryTooltip = "Показує синю зірочку на предметі в інвентарі (предмет має бути у обраному)"
+    IGUI_EditableCategorySelector = "Увімкнути введення тексту в селекторі категорії"
+    IGUI_EditableCategorySelectorTooltip = "Змініть вкладку, щоб застосувати"
+    IGUI_TextTooLongTooltip = "<RED> Текст занадто великий <RGB:1,1,1>"
+    IGUI_chc_Copy = "Копіювати"
+    IGUI_CopyNameProps_ctx = "Назва"
+    IGUI_CopyValueProps_ctx = "Значення"
+    IGUI_CopyValueSearchProps_ctx = "Значення для пошуку"
+    IGUI_PinProps_ctx = "Закріпити"
+    IGUI_UnpinProps_ctx = "Відкріпити"
+    IGUI_BlacklistProps_ctx = "Чорний список"
+    IGUI_UnblacklistProps_ctx = "Виключити з чорного списку"
+    IGUI_ItemDetails_Attributes_tab = "Атрибути"
+	
+		------------Weapon Condition Indicator------------
+	
+	IGUI_TheStar_Notification_ItemFall = "Ви впустили %1",
+	
+		------------LitSortOGSN------------
+	
+	IGUI_PlayerText_FlaggedBook1 = "Я буду шукати це.",
+	IGUI_PlayerText_FlaggedBook2 = "Я запам'ятаю, що я це бачив.",
+	IGUI_PlayerText_FlaggedBook3 = "Я зроблю нотатку про це та запам'ятаю.",
+	
+		------------BetterSorting+AddOns------------
+	
+	IGUI_ItemCat_Appear = "Зовнішній вигляд",
+	IGUI_ItemCat_Appearance = "Зовнішній вигляд",
+	IGUI_ItemCat_Cleaning = "Прибирання",
+	IGUI_ItemCat_Cloth = "Одяг",
+	IGUI_ItemCat_ClothA = "Одяг - Аксесуари",
+	IGUI_ItemCat_ClothB = "Одяг - Сумки",
+	IGUI_ItemCat_ClothM = "Одяг - Різне",
+	IGUI_ItemCat_Container = "Контейнери",
+	IGUI_ItemCat_Cooking = "Кулінарія",
+	IGUI_ItemCat_Craft = "Крафт",
+	IGUI_ItemCat_CraftAmmo = "Крафт - Амуніція",
+	IGUI_ItemCat_CraftCarp = "Крафт - Будівництво",
+	IGUI_ItemCat_CraftElec = "Крафт - Електроніка",
+	IGUI_ItemCat_CraftMas = "Крафт - Кам'яна кладка",
+	IGUI_ItemCat_CraftMason = "Крафт - Кам'яна кладка";
+	IGUI_ItemCat_CraftMetal = "Крафт - Металообробка",
+	IGUI_ItemCat_CraftTailor = "Крафт - Шиття",
+	IGUI_ItemCat_CraftMB = "Крафт - Пивоваріння",
+	IGUI_ItemCat_CraftWM = "Крафт - Виноробство",
+	IGUI_ItemCat_Drugs = "Препарати/Наркотики",
+	IGUI_ItemCat_Electronics = "Електроніка",
+	IGUI_ItemCat_FoodB = "Їжа - Напої",
+	IGUI_ItemCat_FoodP = "Їжа - Швидкопсувні",
+	IGUI_ItemCat_FoodN = "Їжа - Без терміну",
+	IGUI_ItemCat_Fuel = "Пальне",
+	IGUI_ItemCat_Junk = "Сміття",
+	IGUI_ItemCat_LitE = "Література - Відпочинок",
+	IGUI_ItemCat_LitR = "Література - Рецепти",
+	IGUI_ItemCat_LitS = "Література - Навички",
+	IGUI_ItemCat_LitW = "Література - Для нотаток",
+	IGUI_ItemCat_Map = "Мапи",
+	IGUI_ItemCat_Mechanics = "Механіка",
+	IGUI_ItemCat_MediaA = "Медіа - Аудіо",
+	IGUI_ItemCat_MediaG = "Медіа - Гра",
+	IGUI_ItemCat_MediaV = "Медіа - Відео",
+	IGUI_ItemCat_Medical = "Медицина",
+	IGUI_ItemCat_Misc = "Різне",
+	IGUI_ItemCat_Paint = "Малювання",
+	IGUI_ItemCat_SurCamp = "Виживання - Кемпінг",
+	IGUI_ItemCat_SurFarm = "Виживання - Фермерство",
+	IGUI_ItemCat_SurFish = "Виживання - Риболовля",
+	IGUI_ItemCat_SurTrap = "Виживання - Пастки",
+	IGUI_ItemCat_Tool = "Інструменти",
+	IGUI_ItemCat_Ammo = "Амуніція",
+	IGUI_ItemCat_WepAmmoMag = "Зброя - Магазини",
+	IGUI_ItemCat_WepAmmoMagF = "Зброя - Магазини (Відремонтовані)",
+	IGUI_ItemCat_WepBomb = "Зброя - Бомби",
+	IGUI_ItemCat_WepBow = "Зброя - Лук",
+	IGUI_ItemCat_WepFire = "Зброя - Вогнепальна",
+	IGUI_ItemCat_WepMelee = "Зброя - Ближня",
+	IGUI_ItemCat_WepPart = "Зброя - Аксесуари",
+	IGUI_ItemCat_WepRanged = "Зброя - Кидання",
+	IGUI_ItemCat_WepShield = "Зброя - Щити",
+	IGUI_ItemCat_LightS = "Джерело світла";
+	IGUI_ItemCat_ClothArm = "Одяг - Руки",
+	IGUI_ItemCat_ClothAA = "Одяг - Руки (Обладунки)",
+	IGUI_ItemCat_ClothApron = "Одяг - Фартух",
+	IGUI_ItemCat_ClothE = "Одяг - Вуха",
+	IGUI_ItemCat_ClothF = "Одяг - Стопи",
+	IGUI_ItemCat_ClothFA = "Одяг - Стопи (Обладунки)",
+	IGUI_ItemCat_ClothFS = "Одяг - Стопи (Шкарпетки)",
+	IGUI_ItemCat_ClothHW = "Одяг - Долоні",
+	IGUI_ItemCat_ClothHWA = "Одяг - Долоні (Обладунки)",
+	IGUI_ItemCat_ClothH = "Одяг - Голова",
+	IGUI_ItemCat_ClothHelm = "Одяг - Шолом",
+	IGUI_ItemCat_ClothHelmA = "Одяг - Шолом аксесуар",
+	IGUI_ItemCat_ClothL = "Одяг - Ноги",
+	IGUI_ItemCat_ClothLA = "Одяг - Ноги (Обладунки)",
+	IGUI_ItemCat_ClothMask = "Одяг - Маски",
+	IGUI_ItemCat_ClothN = "Одяг - Шия",
+	IGUI_ItemCat_ClothS = "Одяг - Комбінезон",
+	IGUI_ItemCat_ClothSA = "Одяг - Комбінезон (Обладунки)",
+	IGUI_ItemCat_ClothT = "Одяг - Тулуб",
+	IGUI_ItemCat_ClothTA = "Одяг - Тулуб (Обладунки)",
+	IGUI_ItemCat_ClothTO = "Одяг - Тулуб (Верхній одяг)",
+	IGUI_ItemCat_ClothTU = "Одяг - Тулуб (Білизна)",
+	IGUI_ItemCat_ClothU	= "Одяг - Білизна",
+	IGUI_ItemCat_ClothWaist = "Одяг - Пояс",
+	IGUI_ItemCat_ClothW	= "Одяг - Зап'ястя",
+	IGUI_ItemCat_CookWep = "Кулінарія/Зброя - Ближня",
+	IGUI_ItemCat_CraftHob = "Крафт - Хобі",
+	IGUI_ItemCat_Furn = "Меблі",
+	IGUI_ItemCat_FurnA = "Меблі - Електроприлад",
+	IGUI_ItemCat_FurnC = "Меблі - Контейнер",
+	IGUI_ItemCat_FurnD = "Меблі - Декорація",
+	IGUI_ItemCat_FurnF = "Меблі - Сантехніка",
+	IGUI_ItemCat_FurnL = "Меблі - Світильник",
+	IGUI_ItemCat_FurnSeat = "Меблі - Для сидіння",
+	IGUI_ItemCat_HC = "Хобі - Колекціонування",
+	IGUI_ItemCat_HM = "Хобі - Моделі",
+	IGUI_ItemCat_LitG = "Література - Посібник",
+	IGUI_ItemCat_LitT = "Література - Тренування",
+	IGUI_ItemCat_MechAcc = "Механіка - Аксесуари",
+	IGUI_ItemCat_MechArm = "Механіка - Броня",
+	IGUI_ItemCat_MechBat = "Механіка - Акумулятор",
+	IGUI_ItemCat_MechBike = "Механіка - Мотоцикл",
+	IGUI_ItemCat_MechBod = "Механіка - Корпус",
+	IGUI_ItemCat_MechB = "Механіка - Гальма",
+	IGUI_ItemCat_MechBump = "Механіка - Бампер",
+	IGUI_ItemCat_MechD = "Механіка - Двері",
+	IGUI_ItemCat_MechE = "Механіка - Двигун",
+	IGUI_ItemCat_MechFarm = "Механіка - Фермерство",
+	IGUI_ItemCat_MechG = "Механіка - Скло",
+	IGUI_ItemCat_MechGB = "Механіка - Бардачок",
+	IGUI_ItemCat_MechGT = "Механіка - Бензобак",
+	IGUI_ItemCat_MechHeat = "Механіка - Обігрівач",
+	IGUI_ItemCat_MechHood = "Механіка - Капот",
+	IGUI_ItemCat_MechLB = "Механіка - Світильник",
+	IGUI_ItemCat_MechM = "Механіка - Глушник",
+	IGUI_ItemCat_MechN = "Механіка - Човен",
+	IGUI_ItemCat_MechSeat = "Механіка - Видіння",
+	IGUI_ITemCat_MechStor = "Механіка - Сховище",
+	IGUI_ItemCat_MechS = "Механіка - Підвіска",
+	IGUI_ItemCat_MechTire = "Механіка - Шини",
+	IGUI_ItemCat_MechTrunk = "Механіка - Багажник ",
+	IGUI_ItemCat_MechWT = "Механіка - Бак води",
+	IGUI_ItemCat_MechWep = "Механіка - Зброя",
+	IGUI_ItemCat_Plush = "Плюшеві іграшки",
+	IGUI_ItemCat_SurHunt = "Виживання - Полювання",
+	IGUI_ItemCat_SurWater = "Виживання - Вода",
+	IGUI_ItemCat_TWepM = "Інструменти/Зброя - Ближня",
+	IGUI_ItemCat_TWepR = "Інструменти/Зброя - Далекобійна",
+	IGUI_ItemCat_Utility = "Корисне"
+	
+		------------ManageContainers------------
+	
+	IGUI_Include = "Включити",
+	IGUI_Exclude = "Вилучити",
+	IGUI_Unassign = "Скасувати призначення",
+	
+		------------MiniHealthPanel------------
+	
+	IGUI_MiniHealth_UpdateNotes = "<CENTRE> <SIZE:medium> Виправлення Mini Health Panel <LINE> <LINE> <LEFT> <SIZE:small> - Виправлено сині частини тіла, викликані аддоном Excrementum."
+	IGUI_MiniHealth_AlwaysVisible = "Завжди відібражати",
+	IGUI_MiniHealth_HealthBar = "Шкала здоров'я",
+	IGUI_MiniHealth_LockWindow = "Закріпити панель",
+	
+		------------MoreDescriptionForTrait------------
+	
+	IGUI_SearchMode_Categories_FishBait = "Рибні наживки",
+    IGUI_SearchMode_Categories_ForestRarities = "Лісові рідкості",
+    IGUI_SearchMode_Categories_WildHerbs = "Дикі трави",
+    IGUI_SearchMode_Categories_DeadAnimals = "Мертві звірі",
+	
+		------------Map Symbol Size Slider------------
+		
+	IGUI_Map_MapSymbolSize = "Розмір символу",
+		
+		------------(переклав Nyuel)Tactical Sheaths------------
+		
+	IGUI_HotbarAttachment_KnifeSheathLeg = "Піхви (Стегно)",
+	IGUI_HotbarAttachment_KnifeSheathBack = "Піхви (Спина)",
+	IGUI_HotbarAttachment_KatanaSheath = "Піхви (Катана)",
+	
+		------------(переклав Nyuel)Expanded Helicopter Events------------
+	
+	IGUI_VehicleNameUH60Green = "UH-60A",
+    IGUI_VehicleNameUH60GreenFuselage = "Розбитий UH-60A (Фюзеляж)",
+    IGUI_VehicleNameUH60GreenTail = "Розбитий UH-60A (Хвіст)",
+
+    IGUI_VehicleNameUH60Desert = "UH-60A Desert",
+    IGUI_VehicleNameUH60DesertFuselage = "Розбитий UH-60A Desert (Фюзеляж)",
+    IGUI_VehicleNameUH60DesertTail = "Розбитий UH-60A Desert (Хвіст)",
+
+    IGUI_VehicleNameUH60Medevac = "UH-60A Medevac",
+    IGUI_VehicleNameUH60MedevacFuselage = "Розбитий UH-60A Medevac (Фюзеляж)",
+    IGUI_VehicleNameUH60MedevacTail = "Розбитий UH-60A Medevac (Хвіст)",
+
+    IGUI_VehicleNameBell206LBMW = "Новинний Гелікоптер",    
+    IGUI_VehicleNameBell206LBMWFuselage = "Новинний Гелікоптер (Фюзеляж)",
+    IGUI_VehicleNameBell206LBMWTail = "Новинний Гелікоптер (Хвіст)",
+
+    IGUI_VehicleNameBell206Police = "Поліцейський Гелікоптер",
+    IGUI_VehicleNameBell206PoliceFuselage = "Поліцейський Гелікоптер (Фюзеляж)",
+    IGUI_VehicleNameBell206PoliceTail = "Поліцейський Гелікоптер (Хвіст)",
+
+    IGUI_VehicleNameBell206Survivalist = "Цивільний Гелікоптер",
+    
+    IGUI_VehicleNameFEMASupplyDrop = "Гуманітарна Допомога",
+    IGUI_VehicleNameSurvivorSupplyDrop = "Гуманітарна Допомога Благодійників",
+
+    IGUI_Spent = "Витрачений(на)",
+    IGUI_Lit = "Освітлений(на)",
+	
+		------------(переклав Nyuel)Coavins Firearm Repair------------
+	
+	IGUI_ItemCat_FirearmPart = "Компоненти Вогнепальної Зброї",
+	
+		------------(переклав Nyuel)82 Jeep J10 with Mellow Yellow truck------------
+		
+	IGUI_VehicleName82jeepJ10 = "'82 Jeep J10"
+	IGUI_VehicleName82jeepJ10t = "'82 Jeep J10 Mellow Yellow"
+
+	IGUI_VehiclePartJP82Dorothy = "Дороті",
+	IGUI_VehiclePartJP82Windy = "Анемометр",
+
+	IGUI_VehiclePartJP82Rollbar = "Захисна решітка",
+	IGUI_VehiclePartJP82Roofrack = "Багажник на даху",
+	IGUI_VehiclePartJP82BedCover = "Обшивка",
+	IGUI_VehiclePartJP82TrunkDoorTop = "Верхня частина дверей багажника",
+	IGUI_VehiclePartJP82Trunk = "Багажник",
+	IGUI_VehiclePartJP82Trunkt = "Сховище в кузові",
+
+	IGUI_VehiclePartJP82FrontBumper = "Передній бампер",
+	IGUI_VehiclePartJP82RearBumper = "Задній бампер",
+
+	IGUI_VehiclePartJP82SpareTireRear = "Запасне заднє колесо",
+	IGUI_VehiclePartJP82SpareTireRoof = "Запасне колесо на даху",
+
+	IGUI_VehiclePartJP82WindshieldArmor = "Захист для лобового скла",
+	IGUI_VehiclePartJP82WindowFrontLeftArmor = "Захист для лівого переднього скла",
+	IGUI_VehiclePartJP82WindowFrontRightArmor = "Захист для правого переднього скла",
+	
+		------------(переклав Nyuel)83 AM General M923------------
+		
+	IGUI_VehicleName83amgeneralM923 = "'83 AM General M923 Hillbilly",
+	IGUI_VehicleName83amgeneralM923Burnt = "'83 AM General M923 Burnt",
+
+	IGUI_VehiclePartM923SpareTire = "Запасне колесо",
+	IGUI_VehiclePartM923SpareMount = "Кріплення запасного колеса",
+	IGUI_VehiclePartM923Stakes = "Бортова огорожа для платформи",
+	IGUI_VehiclePartM923DoorLeftArmor = "Захист для передньої лівої двері",
+	IGUI_VehiclePartM923DoorRightArmor = "Захист для передньої правої двері",
+	IGUI_VehiclePartM923WindshieldArmor = "Захист для лобового скла",
+	IGUI_VehiclePartM923Bumper = "Бампер",
+	IGUI_VehiclePartM923Trunk = "Сховище на платформі",	
+	IGUI_VehiclePartM923Storage = "Бокове сховище",
+	IGUI_VehiclePartM923StorageDoor = "Кришка бокового сховища",
+	IGUI_VehiclePartM923Mudflaps = "Бризковики",
+	IGUI_VehiclePartM923CabCovers = "Накриття кабіни",
+	IGUI_VehiclePartM923GuntruckArmor = "Захист для крупнокаліберного кулемета",
+	
+		------------(переклав Nyuel)86 Oshkosh P19A + Military Trailers------------
+	
+	IGUI_VehicleName86oshkoshUSMC = "'86 Oshkosh P19A USMC"
+	IGUI_VehicleName86oshkoshKYFD = "'86 Oshkosh P19A KYFD"
+	IGUI_VehicleName86oshkoshFRTR55 = "P19A FRTR55"
+	IGUI_VehicleName86oshkoshP19ABurnt = "Burnt Oshkosh P19A"
+
+	IGUI_VehicleNameTrailerM1082 = "Причіп M1082"
+	IGUI_VehicleNameTrailerM1082tarp = "Причіп з тентом M1082"
+	IGUI_VehicleNameTrailerM1095 = "Причіп M1095"
+	IGUI_VehicleNameTrailerM1095tarp = "Причіп з тентом M1095"
+
+	IGUI_VehiclePartCatP19Arighttrunk = "Правий багажник",
+	IGUI_VehiclePartCatP19Alefttrunk = "Лівий багажник",
+
+	IGUI_VehiclePartP19ABigTrunkCompartment0 = "Великий верхній відсік",
+	IGUI_VehiclePartP19ASmallTrunkCompartment1 = "Невеликий лівий відсік",
+	IGUI_VehiclePartP19ASmallTrunkCompartment2 = "Невеликий середній відсік",
+	IGUI_VehiclePartP19ASmallTrunkCompartment3 = "Невеликий правий відсік",
+
+	IGUI_VehiclePartP19ABigTrunkCompartment0b = "Великий верхній відсік",
+	IGUI_VehiclePartP19ASmallTrunkCompartment1b = "Невеликий лівий відсік",
+	IGUI_VehiclePartP19ASmallTrunkCompartment3b = "Невеликий правий відсік",
+
+	IGUI_VehiclePartP19Ahatch = "Даховий люк",
+	IGUI_VehiclePartP19ARoofrack = "Даховий багажник",
+	IGUI_VehiclePartTrunkDoor2 = "Друга кришка багажника",
+
+	IGUI_VehiclePartP19AFenderLeft = "Ліве заднє крило",
+	IGUI_VehiclePartP19AFenderRight = "Праве заднє крило",
+
+	IGUI_VehiclePartP19ASpareMountLeft = "Заднє кріплення запасного колеса",
+	IGUI_VehiclePartP19ASpareMountRear = "Дахове кріплення запасного колеса ",
+
+	IGUI_VehiclePartP19ASpareTireLeft = "Заднє запасне колесо",
+	IGUI_VehiclePartP19ASpareTireRear = "Дахове запасне колесо",
+
+	IGUI_VehiclePartP19AWindshieldArmor = "Захист лобового скла",
+	IGUI_VehiclePartP19ADoorFrontLeftArmor = "Захист лівої передньої двері",
+	IGUI_VehiclePartP19ADoorFrontRightArmor = "Захист правої передньої двері",
+	
+		------------(переклав Nyuel)89 Ford Bronco------------
+		
+	IGUI_VehicleName89fordBronco = "'89 Ford Bronco"
+
+	IGUI_VehiclePartBR89Rollbar = "Захисна решітка",
+	IGUI_VehiclePartBR89Roofrack = "Багажник на даху",
+	IGUI_VehiclePartBR89BedCover = "Кришка багажного відділення",
+	IGUI_VehiclePartBR89Barrier = "Бар'єр для багажника",
+	IGUI_VehiclePartBR89Trunk = "Багажник",
+
+	IGUI_VehiclePartBR89FrontBumper = "Передній бампер",
+	IGUI_VehiclePartBR89RearBumper = "Задній бампер",
+
+	IGUI_VehiclePartBR89SpareTireRoof = "Запасне колесо на даху",
+	IGUI_VehiclePartBR89SpareTireRear = "Запасне заднє колесо",
+
+	IGUI_VehiclePartBR89WindshieldArmor = "Захист лобового скла",
+	IGUI_VehiclePartBR89WindowFrontLeftArmor = "Захист для лівого переднього скла",
+	IGUI_VehiclePartBR89WindowFrontRightArmor = "Захист для правого переднього скла",
+	IGUI_VehiclePartBR89WindowRearLeftArmor = "Захист для лівого заднього скла",
+	IGUI_VehiclePartBR89WindowRearRightArmor = "Захист для правого заднього скла",
+	
+		------------(переклав Nyuel)91 RANGE ROVER Classic------------
+	
+	IGUI_VehicleName91range = "'91 RANGE ROVER 4-дверний",
+	IGUI_VehicleName91range2 = "'91 RANGE ROVER 2-дверний",
+	
+		------------(переклав Nyuel)92 AM General M998 + M101A3 Cargo trailer------------
+	
+	IGUI_VehicleName92amgeneralM998 = "'92 AM General M998 HMMWV",
+	IGUI_VehicleName92amgeneralM998Burnt = "'92 AM General M998 HMMWV Burnt",
+
+	IGUI_VehiclePartM998Trunk = "Сховище в багажнику",
+	IGUI_VehiclePartM998BackCover = "Кришка задньої частини",
+	IGUI_VehiclePartM998SpareTire = "Запасне колесо",
+	IGUI_VehiclePartM998Mudflaps = "Бризкозахисні крила",
+	IGUI_VehiclePartM998Bullbar = "Бикова захисна рама",
+	IGUI_VehiclePartM998Muffler = "Глушник",
+	IGUI_VehiclePartM998TrunkBarrier = "Бар'єр багажного відділення",
+	IGUI_VehiclePartM998DoorFrontLeftArmor = "Захист передньої лівої двері",
+	IGUI_VehiclePartM998DoorFrontRightArmor = "Захист передньої правої двері",
+	IGUI_VehiclePartM998DoorRearLeftArmor = "Захист задньої лівої двері",
+	IGUI_VehiclePartM998DoorRearRightArmor = "Захист задньої правої двері",
+	IGUI_VehiclePartM998WindshieldArmor = "Захист лобового скла",
+	IGUI_VehiclePartM998Roofrack = "Сховище на даху",
+
+	IGUI_VehicleNameTrailerM101A3cargo = "'92 M101A3 Вантажний Причіп",
+
+	IGUI_VehiclePartTrunkDoorTwo = "Верхня кришка багажника",
+	IGUI_VehiclePartM101A3Cover = "Жорсткий ковпак для причепа",
+	IGUI_VehiclePartM101A3Tarp = "Наметове накриття для причепа",
+	IGUI_VehiclePartM101A3Spare = "Переднє запасне колесо",
+	IGUI_VehiclePartM101A3Trunk = "Сховище на причіпі",
+	
+		------------(переклав Nyuel)Alternative Inventory Rendering------------
+	
+	IGUI_CUI_Display_UpdateRate = "Швидкість оновлення інвентарю",
+    IGUI_CUI_Display_MaxItemPerGroup = "Максимальна кількість елементів на групу предметів",
+    IGUI_CUI_Display_OpacityPresets = "Пресет прозорості інвентарю",
+    IGUI_CUI_Display_BookMarkStyle = "Стиль іконки закладки",
+    IGUI_CUI_Display_EquipStyle = "Стиль іконки екіпіровки",
+    IGUI_CUI_Display_ControllerHighlight = "Стиль підсвічування вибраного контролера",
+    IGUI_CUI_Display_BookTrack = "Позначити книги з вищим рівнем вмінь(WIP)",
+
+    IGUI_CUI_Display_EnableDrainableDetail = "Показати детальний статус вичерпування ресурсів",
+    IGUI_CUI_Display_EnableShowModdedGun = "Показати модифіковану зброю",
+    IGUI_CUI_Display_EnableDetailedAttachments = "Показувати додатки в розгорнутій секції",
+    IGUI_CUI_Display_EnableMagazineDetail = "Показати детальний статус магазину",
+    
+    IGUI_CUI_Display_EnableShowModdedGun = "Показати модифіковану зброю",
+    IGUI_CUI_Display_EnableTrackLitItems = "Відстеження книг та медіафайлів",
+    IGUI_CUI_Display_EnableTrackMediaItems = "Відстежування переглянутої медіаінформації",
+    IGUI_CUI_Display_EnableBadCondHighlight = "Виділити зброю у поганому стані",
+    IGUI_CUI_Display_EnableEquipmentLine = "Увімкнути роздільник обладнання",
+    IGUI_CUI_Display_EnablePinItem = "Показати закріплений предмет (WIP)",
+    IGUI_CUI_Display_EnableFilledMagazine = "",
+    IGUI_CUI_Display_ItemDataUpdateRate = "Швидкість оновлення даних предметів",
+    IGUI_CUI_Display_InventoryUpdateRate = "Швидкість оновлення інвентарю",
+    IGUI_CUI_Display_EnableDelayedItemDataUpdate = "Увімкнути відкладене оновлення даних предметів",
+    IGUI_CUI_Display_EnableDelayedInventoryUpdate = "Увімкнути відкладене оновлення даних інвентарю",
+    IGUI_CUI_Display_ExperimentalTableWipe = "Експериментальне стирання таблиці",
+
+    IGUI_CUI_Display_EnableTrackDuplicates = "Функція відстеження дублікатів предметів",
+    IGUI_CUI_Display_EnableTrackDuplicateLiteratures = "Відстеження дублікатів літератури",
+    IGUI_CUI_Display_EnableTrackDuplicateWeapons = "Відстеження дублікатів зброї",
+    IGUI_CUI_Display_EnableTrackDuplicateWeaponsComparison = "Порівняння стану зброї",
+    IGUI_CUI_Display_EnableTrackDuplicateClothings = "Відстеження дублікатів одягу",
+    IGUI_CUI_Display_EnableTrackDuplicateFoods = "Відстеження дублікатів їжі",
+    IGUI_CUI_Display_EnableTrackDuplicateItems = "Відстеження дублікатів Generic Items"
+    
+    IGUI_CUI_Display_EnableTrackDuplicates_Tooltip = "Порівняйте предмет цільового контейнера з інвентарем персонажа.<br>Необладнаний контейнер не буде включено.",
+	
+		------------(переклав SerjTheLord)Better lockpicking------------
+
+	IGUI_perks_Lockpicking = "Злам замків",
+	IGUI_perks_Miscellaneous = "Різне",
+}

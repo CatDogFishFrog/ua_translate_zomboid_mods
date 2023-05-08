@@ -1,0 +1,615 @@
+ContextMenu_UA = {
+
+		------------Game------------
+	
+	ContextMenu_DisableAutodrink = "Вимкнути автопиття",
+	
+		------------Dynamic Traits------------
+		
+	ContextMenu_StudyPlant = "Вивчити",
+	ContextMenu_StudyPlantTT = "Вивчіть ягоди та гриби, щоб навчитися розрізняти отруйні та не отруйні.",
+	ContextMenu_IdentifyHalf = "Вивчити половину",
+	ContextMenu_IdentifyAll = "Вивчити все"
+	
+		
+		------------TheWorkshop/ScrapArmor------------
+		
+	ContextMenu_WearIt = "Одягти",
+	ContextMenu_OpenHelmet = "Відкрити шолом",
+	ContextMenu_CloseHelmet = "Закрити шолом",
+	
+		------------ImprovedBuildMenu------------
+		
+		-- Woodworking
+	ContextMenu_Brown_Wooden_Floor = "Коричневий дерев'яна підлога",
+	ContextMenu_Light_Brown_Wooden_Floor = "Світло-коричневий дерев'яна підлога",
+	ContextMenu_Dining = "Столові меблі",
+	ContextMenu_Storage = "Сховища",
+	ContextMenu_Outdoor = "На відкритому повітрі",
+	ContextMenu_Collector = "Збирачі",
+	ContextMenu_Rain_Collector_Barrel = "Маленький збирач дощової води",
+	ContextMenu_Large_Rain_Collector_Barrel = "Великий збирач дощової води",
+	ContextMenu_Half_Wooden_Crate = "Дерев'яна напівкоробка",
+	ContextMenu_Stairs_LightBrown = "Світло-коричневі сходи",
+	ContextMenu_Stairs_Brown = "Коричневі сходи",
+	ContextMenu_Stairs_Dark = "Темні сходи",
+	ContextMenu_Wooden_Gate = "Ворота дерев'яної огорожі",
+	ContextMenu_Wooden_Big_Gate = "Дерев'яні ворота",
+	ContextMenu_Log_Pillar = "Стовп з колоди",
+	ContextMenu_Military_Crate = "Військовий ящик",
+  
+		--Metalworking
+	ContextMenu_JailWallFrame = "Металеві грати",
+	ContextMenu_DoorGates = "Двері/Ворота",
+	ContextMenu_Gates = "Ворота",
+	ContextMenu_FloorRoof = "Підлога/Стеля",
+	ContextMenu_MetalFloor = "Металева підлога",
+	ContextMenu_DoorFrameMetal = "Металева дверна рама",
+	ContextMenu_MetalDoor = "Металева двер",
+	ContextMenu_DoorFrameJail = "Каркас двері з грат",
+	ContextMenu_JailDoor = "Двері з металевих грат",
+  
+		--Other
+	ContextMenu_Concrete_Floor = "Залити бетоном",
+	
+		----IBM-ExtraBuildings
+		-- Barricades
+	ContextMenu_Barricades = "Барикади",
+	ContextMenu_Small_Barricades = "Маленькі Барикади",
+	ContextMenu_Medium_Barricades = "Середні Барикади",
+	ContextMenu_Large_Barricades = "Великі Барикади",
+	ContextMenu_Small_Barricade = "Маленька Барикада",
+	ContextMenu_Medium_Barricade = "Середня Барикада",
+	ContextMenu_Large_Barricade = "Велика Барикада",
+  
+		-- Garages
+	ContextMenu_Garages = "Гаражні двері",
+	ContextMenu_Garages_2_Door = "Гаражні двері 2",
+	ContextMenu_Garages_3_Door = "Гаражні двері 3",
+	ContextMenu_Garages_4_Door = "Гаражні двері 4",
+	ContextMenu_Garage_Door1 = "Білі гаражні двері",
+	ContextMenu_Garage_Door2 = "Зелені гаражні двері",
+	ContextMenu_Garage_Door3 = "Світло-сірі гаражні двері",
+	ContextMenu_Garage_Door4 = "Темно-сірі гаражні двері",
+	ContextMenu_Garage_Door5 = "Червоні гаражні двері з віконцем",	
+	ContextMenu_Garage_Door6 = "Темно-сірі гаражні двері з віконцем",
+	
+		------------ManageContainers------------
+		
+	ContextMenu_Put_Assigned_Containers = "Покласти у відповідний контейнер",
+	ContextMenu_Configure_Container = "Налаштувати контейнер",
+	
+		------------ReloadAllMagazines------------
+	
+	ContextMenu_ReloadAllMagazines_LoadAllMagazines = "Зарядити усі (%1)",
+	ContextMenu_ReloadAllMagazines_UnloadAllMagazines = "Розрядити усі (%1)",
+	
+    ContextMenu_AK_Vest_Loose = "Перший",
+    ContextMenu_Bag_AK_Vest = "Другий",
+    ContextMenu_AK_Vest (Tight) = "Третій",
+    ContextMenu_Bag_AK_Vest_Loose = "Четвертий",
+	
+		------------Brita's Armor Pack------------
+
+	----Brita_Armband
+
+	ContextMenu_Armband_ON				= "Поверх одягу",
+	ContextMenu_Armband_Back			= "Під одягом, на тіло",
+	ContextMenu_Armband					= "Під одягом, на тіло",
+	ContextMenu_Armband_Long_ON			= "Поверх одягу",
+	ContextMenu_Armband_Long_Back		= "Під одягом, на тіло",
+	ContextMenu_Armband_Long			= "Під одягом, на тіло",
+	ContextMenu_Armband_Short_ON		= "Поверх одягу",
+	ContextMenu_Armband_Short_Back		= "Під одягом, на тіло",
+	ContextMenu_Armband_Short			= "Під одягом, на тіло",
+
+	----Brita_Armor
+
+	ContextMenu_SET_Armor_FULL			= "З підсумками",
+	ContextMenu_SET_Armor_Back			= "Без підсумків",
+
+    ----Brita_Armor_Heavy
+
+    ContextMenu_EXO_Suit_ON				= "Без нагрудної пластини",
+    ContextMenu_EXO_Suit_Back			= "З нагрудною пластиною",
+    ContextMenu_EXO_Suit				= "З нагрудною пластиною",
+
+    ----Brita_Armor_Parts
+
+    ContextMenu_Wolf_Knee_Pad_Loose		= "Поверх одягу",
+    ContextMenu_Wolf_Knee_Pad			= "Під одягом, на тіло",
+    ContextMenu_Wolf_Knee_Pad_Thigh		= "Поверх одягу",
+    ContextMenu_SET_PAD_Loose			= "Поверх одягу",
+    ContextMenu_SET_PAD					= "Під одягом, на тіло",
+    ContextMenu_SET_PAD_Thigh			= "Поверх одягу",
+    ContextMenu_SET_ARM_PAD_Loose		= "Поверх одягу",
+    ContextMenu_SET_ARM_PAD				= "Під одягом, на тіло",
+    ContextMenu_SET_ARM_PAD_Thigh		= "Поверх одягу",
+
+    ----Brita_ARMY_Helmet
+
+    ContextMenu_Neck_OFF				= "З захистом шиї",
+    ContextMenu_Neck_ON					= "Без захисту шиї",
+    ContextMenu_HGU_Glass_OFF			= "Опустити візор",
+    ContextMenu_HGU_Glass_ON			= "Підняти візор",
+    ContextMenu_1916_Helmet_ON			= "З пластиною",
+    ContextMenu_1916_Helmet_Back		= "Без пластини",
+    ContextMenu_1916_Helmet				= "Без пластини",
+
+    ----Brita_Ashe_Sets
+
+    ContextMenu_Ashe_Jacket_ON			= "Розстебнути",
+    ContextMenu_Ashe_Jacket_Back		= "Застебнути",
+    ContextMenu_Ashe_Jacket				= "Застебнути",
+    ContextMenu_Ashe_Cloak_ON			= "Розслаблено",
+    ContextMenu_Ashe_Cloak_Back			= "Більш щільно",
+    ContextMenu_Ashe_Cloak				= "Більш щільно",
+
+    ----Brita_Balaclava_Mask
+
+    ContextMenu_Bandana_Mask_OFF		= "Без шиї",
+    ContextMenu_Bandana_Mask_ON			= "З шиєю",
+    ContextMenu_Camo_Mask_OFF			= "Без шиї",
+    ContextMenu_Camo_Mask_ON			= "З шиєю",
+    ContextMenu_Other_Mask_OFF			= "Без шиї",
+    ContextMenu_Other_Mask_ON			= "З шиєю",
+    ContextMenu_Scarf_Mask_ON			= "На всю голову",
+    ContextMenu_Scarf_Mask_Back			= "Тільки на обличчя",
+    ContextMenu_Scarf_Mask				= "Тільки на обличчя",
+    ContextMenu_Scarf_Mask_Camo_ON		= "На всю голову",
+    ContextMenu_Scarf_Mask_Camo_Back	= "Тільки на обличчя",
+    ContextMenu_Scarf_Mask_Camo			= "Тільки на обличчя",
+    ContextMenu_Scarf_Mask_Hunting_ON	= "На всю голову",
+    ContextMenu_Scarf_Mask_Hunting_Back	= "Тільки на обличчя",
+    ContextMenu_Scarf_Mask_Hunting		= "Тільки на обличчя",
+    ContextMenu_Scarf_Mask_Casual_ON	= "На всю голову",
+    ContextMenu_Scarf_Mask_Casual_Back	= "Тільки на обличчя",
+    ContextMenu_Scarf_Mask_Casual		= "Тільки на обличчя",
+    ContextMenu_Scarf_Mask_Ashe_ON		= "На всю голову",
+    ContextMenu_Scarf_Mask_Ashe_Back	= "Тільки на обличчя",
+    ContextMenu_Scarf_Mask_Ashe			= "Тільки на обличчя",
+
+    ----Brita_Chempak
+
+    ContextMenu_Chempak_Blauer_ON		= "З капюшоном",
+    ContextMenu_Chempak_Blauer_Back		= "Без капюшона",
+    ContextMenu_Chempak_Blauer			= "Без капюшона",
+    ContextMenu_Chempak_BRN_ON			= "З капюшоном",
+    ContextMenu_Chempak_BRN_Back		= "Без капюшона",
+    ContextMenu_Chempak_BRN				= "Без капюшона",
+    ContextMenu_Chempak_Tychem_ON		= "З капюшоном",
+    ContextMenu_Chempak_Tychem_Back		= "Без капюшона",
+    ContextMenu_Chempak_Tychem			= "Без капюшона",
+    ContextMenu_Antibelok_ON			= "Без вирізу",
+    ContextMenu_Antibelok_Back			= "З вирізом на гомілках",
+    ContextMenu_Antibelok				= "З вирізом на гомілках",
+
+    ----Brita_Chest_Rig
+
+    ContextMenu_D3M_Loose				= "Поверх одягу",
+    ContextMenu_Bag_D3M					= "Ближче до тіла",
+    ContextMenu_D3M_(Tight)				= "Ближче до тіла",
+    ContextMenu_Bag_D3M_Loose			= "Поверх одягу",
+    ContextMenu_Blackhawk_Loose			= "Поверх одягу",
+    ContextMenu_Bag_Blackhawk			= "Ближче до тіла",
+    ContextMenu_Blackhawk_(Tight)		= "Ближче до тіла",
+    ContextMenu_Bag_Blackhawk_Loose		= "Поверх одягу",
+    ContextMenu_X_Vest_Loose			= "Поверх одягу",
+    ContextMenu_Bag_X_Vest				= "Ближче до тіла",
+    ContextMenu_X_Vest_(Tight)			= "Ближче до тіла",
+    ContextMenu_Bag_X_Vest_Loose		= "Поверх одягу",
+    ContextMenu_SKS_Vest_Loose			= "Поверх одягу",
+    ContextMenu_Bag_SKS_Vest			= "Ближче до тіла",
+    ContextMenu_SKS_Vest_(Tight)		= "Ближче до тіла",
+    ContextMenu_Bag_SKS_Vest_Loose		= "Поверх одягу",
+    ContextMenu_AK_Vest_Loose			= "Поверх одягу",
+    ContextMenu_Bag_AK_Vest				= "Ближче до тіла",
+    ContextMenu_AK_Vest_(Tight)			= "Ближче до тіла",
+    ContextMenu_Bag_AK_Vest_Loose		= "Поверх одягу",
+    ContextMenu_Rig_Smersh_Loose		= "Задній слот",
+    ContextMenu_Rig_Smersh				= "Передній слот",
+    ContextMenu_Rig_Smersh_(Tight)		= "Передній слот",
+    ContextMenu_Rig_Smersh_A_Loose		= "Задній слот",
+    ContextMenu_Rig_Smersh_A			= "Передній слот",
+    ContextMenu_Rig_Smersh_A_(Tight)	= "Передній слот",
+    ContextMenu_Rig_Smersh_B_Loose		= "Задній слот",
+    ContextMenu_Rig_Smersh_B			= "Передній слот",
+    ContextMenu_Rig_Smersh_B_(Tight)	= "Передній слот",
+    ContextMenu_Rig_Smersh_C_Loose		= "Задній слот",
+    ContextMenu_Rig_Smersh_C			= "Передній слот",
+    ContextMenu_Rig_Smersh_C_(Tight)	= "Передній слот",
+    ContextMenu_Rig_ELA_Loose			= "Позаду",
+    ContextMenu_Rig_ELA					= "Спереду",
+    ContextMenu_Rig_ELA_(Tight)			= "Спереду",
+    ContextMenu_Radio_Rig_Loose			= "Задній слот",
+    ContextMenu_Radio_Rig				= "Передній слот",
+    ContextMenu_Radio_Rig_(Tight)		= "Передній слот",
+    ContextMenu_Shotgun_Rig_Loose		= "Задній слот",
+    ContextMenu_Shotgun_Rig				= "Передній слот",
+    ContextMenu_Shotgun_Rig_(Tight)		= "Передній слот",
+
+    ----Brita_Cloak_Hoods
+
+    ContextMenu_Viper_Hood_ON			= "Одягнути капюшон",
+    ContextMenu_Viper_Hood_Back			= "Зняти капюшон",
+    ContextMenu_Viper_Hood				= "Зняти капюшон",
+    ContextMenu_Hood_OFF				= "Зняти капюшон",
+    ContextMenu_Hood_ON					= "Одягнути капюшон",
+    ContextMenu_Military_Ghillie_B		= "Перемкнути на наступний тип (Тільки верх)",
+    ContextMenu_Military_Ghillie_C		= "Перемкнути на наступний тип (Без переднього верху)",
+    ContextMenu_Military_Ghillie_D		= "Перемкнути на наступний тип (Без рукавів)",
+    ContextMenu_Military_Ghillie		= "Перемкнути на наступний тип (Все тіло)",
+
+    ----Brita_Combat_Clothes
+
+    ContextMenu_Gorka_Pants_New_Rolled	= "Підкатати",
+    ContextMenu_Gorka_Pants_New_Back	= "Вивернути",
+    ContextMenu_Combat_Pants_Rolled		= "Підкатати",
+    ContextMenu_Combat_Pants_Back		= "Вивернути",
+    ContextMenu_Military_Pants_Rolled	= "Підкатати",
+    ContextMenu_Military_Pants_Back		= "Вивернути",
+    ContextMenu_CRYE_Pants_Rolled		= "Підкатати",
+    ContextMenu_CRYE_Pants_Back			= "Вивернути",
+    ContextMenu_Tactical_Hood_ON		= "З капюшоном",
+    ContextMenu_Tactical_Hood_Back		= "Без капюшона",
+    ContextMenu_Tactical_Hood			= "Без капюшона",
+    ContextMenu_Kawaii_Hood_ON			= "З капюшоном",
+    ContextMenu_Kawaii_Hood_Back		= "Без капюшона",
+    ContextMenu_Kawaii_Hood				= "Без капюшона",
+    ContextMenu_BARS_Hoodie_ON			= "З капюшоном",
+    ContextMenu_BARS_Hoodie_Back		= "Без капюшона",
+    ContextMenu_BARS_Hoodie				= "Без капюшона",
+    ContextMenu_Gorka6_Hoodie_ON		= "З капюшоном",
+    ContextMenu_Gorka6_Hoodie_Back		= "Без капюшона",
+    ContextMenu_Gorka6_Hoodie			= "Без капюшона",
+    ContextMenu_M65_Jacket_ON			= "З капюшоном",
+    ContextMenu_M65_Jacket_Back			= "Без капюшона",
+    ContextMenu_M65_Jacket				= "Без капюшона",
+    ContextMenu_Anorak_Pants_Rolled		= "Підкатати",
+    ContextMenu_Anorak_Pants_Back		= "Вивернути",
+    ContextMenu_M42_Pants_Rolled		= "Підкатати",
+    ContextMenu_M42_Pants_Back			= "Вивернути",
+    ContextMenu_GEN2_Pants_Rolled		= "Підкатати",
+    ContextMenu_GEN2_Pants_Back			= "Вивернути",
+    ContextMenu_ELA_Bomber_ON			= "Розстебнути",
+    ContextMenu_ELA_Bomber_Back			= "Застебнути",
+    ContextMenu_ELA_Bomber				= "Застебнути",
+
+    ----Brita_Combat_Clothes_2
+
+    ContextMenu_ANA_Shirts_ON		= "ANA_Shirts_ON",
+    ContextMenu_ANA_Shirts_Back		= "ANA_Shirts_Back",
+    ContextMenu_ANA_Shirts		= "ANA_Shirts",
+    ContextMenu_ANA_Hood_ON		= "ANA_Hood_ON",
+    ContextMenu_ANA_Hood_Back		= "ANA_Hood_Back",
+    ContextMenu_ANA_Hood		= "ANA_Hood",
+    ContextMenu_ANA_Classic_ON		= "ANA_Classic_ON",
+    ContextMenu_ANA_Classic_Back		= "ANA_Classic_Back",
+    ContextMenu_ANA_Classic		= "ANA_Classic",
+    ContextMenu_Winter_Jacket_Heavy_ON		= "Winter_Jacket_Heavy_ON",
+    ContextMenu_Winter_Jacket_Heavy_Back		= "Winter_Jacket_Heavy_Back",
+    ContextMenu_Winter_Jacket_Heavy		= "Winter_Jacket_Heavy",
+    ContextMenu_Winter_Jacket_Camo_Heavy_ON		= "Winter_Jacket_Camo_Heavy_ON",
+    ContextMenu_Winter_Jacket_Camo_Heavy_Back		= "Winter_Jacket_Camo_Heavy_Back",
+    ContextMenu_Winter_Jacket_Camo_Heavy		= "Winter_Jacket_Camo_Heavy",
+    ContextMenu_Wattson_Jacket_ON		= "Wattson_Jacket_ON",
+    ContextMenu_Wattson_Jacket_Back		= "Wattson_Jacket_Back",
+    ContextMenu_Wattson_Jacket		= "Wattson_Jacket",
+    ContextMenu_Fur_Jacket_ON		= "Fur_Jacket_ON",
+    ContextMenu_Fur_Jacket_Back		= "Fur_Jacket_Back",
+    ContextMenu_Fur_Jacket		= "Fur_Jacket",
+    ContextMenu_Kelvin_Pants_Rolled		= "Kelvin_Pants_Rolled",
+    ContextMenu_Kelvin_Pants_Back		= "Kelvin_Pants_Back",
+    ContextMenu_Kelvin_Jacket_ON		= "Kelvin_Jacket_ON",
+    ContextMenu_Kelvin_Jacket_Back		= "Kelvin_Jacket_Back",
+    ContextMenu_Kelvin_Jacket		= "Kelvin_Jacket",
+
+    ----Brita_FireFighter_Clothes
+
+    ContextMenu_Fire_Pants_Rolled		= "Fire_Pants_Rolled",
+    ContextMenu_Fire_Pants_Back		= "Fire_Pants_Back",
+
+    ----Brita_Gaiter
+
+    ContextMenu_Gaiter_OFF		= "Gaiter_OFF",
+    ContextMenu_Gaiter_ON		= "Gaiter_ON",
+    ContextMenu_OZ_Gaiter_OFF		= "OZ_Gaiter_OFF",
+    ContextMenu_OZ_Gaiter_ON		= "OZ_Gaiter_ON",
+
+    ----Brita_GasMask
+
+    ContextMenu_AMP_OFF		= "AMP_OFF",
+    ContextMenu_AMP_ON		= "AMP_ON",
+
+    ----Brita_Goggles
+
+    ContextMenu_X1000_OFF		= "X1000_OFF",
+    ContextMenu_X1000_ON		= "X1000_ON",
+    ContextMenu_Crewman_Goggles_OFF		= "Crewman_Goggles_OFF",
+    ContextMenu_Crewman_Goggles_ON		= "Crewman_Goggles_ON",
+    ContextMenu_ELA_Goggles_ON		= "На лоба",
+    ContextMenu_ELA_Goggles_Back		= "Опустити на очі",
+    ContextMenu_ELA_Goggles		= "Опустити на очі",
+
+    ----Brita_Hat
+
+    ContextMenu_Cap_Backwards		= "Cap_Backwards",
+    ContextMenu_Cap_Front		= "Cap_Front",
+    ContextMenu_Military_Ghillie_Hat_ON		= "Military_Ghillie_Hat_ON",
+    ContextMenu_Military_Ghillie_Hat_OFF		= "Military_Ghillie_Hat_OFF",
+
+    ----Brita_Headsets
+
+    ContextMenu_Aviation_Headsets_ON		= "Aviation_Headsets_ON",
+    ContextMenu_Aviation_Headsets_Back		= "Aviation_Headsets_Back",
+    ContextMenu_Aviation_Headsets		= "Aviation_Headsets",
+    ContextMenu_Comtac_Headsets_ON		= "Comtac_Headsets_ON",
+    ContextMenu_Comtac_Headsets_Back		= "Comtac_Headsets_Back",
+    ContextMenu_Comtac_Headsets		= "Comtac_Headsets",
+    ContextMenu_Comtac4_Headsets_ON		= "Comtac4_Headsets_ON",
+    ContextMenu_Comtac4_Headsets_Back		= "Comtac4_Headsets_Back",
+    ContextMenu_Comtac4_Headsets		= "Comtac4_Headsets",
+    ContextMenu_Bowman_Headsets_ON		= "Bowman_Headsets_ON",
+    ContextMenu_Bowman_Headsets_Back		= "Bowman_Headsets_Back",
+    ContextMenu_Bowman_Headsets		= "Bowman_Headsets",
+
+    ----Brita_Helmet_Attachments
+
+    ContextMenu_Visor3_OFF				= "Підняти візор",
+    ContextMenu_Visor3_ON				= "Опустити візор",
+    ContextMenu_Visor4_OFF				= "Підняти візор",
+    ContextMenu_Visor4_ON				= "Опустити візор",
+    ContextMenu_Maska_1_Visor_OFF		= "Підняти візор",
+    ContextMenu_Maska_1_Visor_ON		= "Опустити візор",
+    ContextMenu_6B6_Visor_OFF			= "Підняти візор",
+    ContextMenu_6B6_Visor_ON			= "Опустити візор",
+    ContextMenu_Vityaz_Visor_OFF		= "Підняти візор",
+    ContextMenu_Vityaz_Visor_ON			= "Опустити візор",
+    ContextMenu_ZSH_Visor_OFF			= "Підняти візор",
+    ContextMenu_ZSH_Visor_ON			= "Опустити візор",
+    ContextMenu_Fire_Visor_OFF			= "Підняти візор",
+    ContextMenu_Fire_Visor_ON			= "Опустити візор",
+    ContextMenu_EOD_Visor_OFF			= "Підняти візор",
+    ContextMenu_EOD_Visor_ON			= "Опустити візор",
+
+    ----Brita_NV_Goggles
+
+    ContextMenu_Sam_NV_OFF				= "Sam_NV_OFF",
+    ContextMenu_Sam_NV_ON				= "Sam_NV_ON",
+    ContextMenu_PVS15_OFF				= "PVS15_OFF",
+    ContextMenu_PVS15_ON				= "PVS15_ON",
+    ContextMenu_PVS15_Harness_OFF		= "PVS15_Harness_OFF",
+    ContextMenu_PVS15_Harness_ON		= "PVS15_Harness_ON",
+    ContextMenu_NV18_OFF				= "NV18_OFF",
+    ContextMenu_NV18_ON					= "NV18_ON",
+    ContextMenu_NV18_Harness_OFF		= "NV18_Harness_OFF",
+    ContextMenu_NV18_Harness_ON			= "NV18_Harness_ON",
+    ContextMenu_NV_PVS5_OFF				= "NV_PVS5_OFF",
+    ContextMenu_NV_PVS5_ON				= "NV_PVS5_ON",
+    ContextMenu_NV_PNV_57_OFF			= "NV_PNV_57_OFF",
+    ContextMenu_NV_PNV_57_ON			= "NV_PNV_57_ON",
+    ContextMenu_NV_PVS7_OFF				= "NV_PVS7_OFF",
+    ContextMenu_NV_PVS7_ON				= "NV_PVS7_ON",
+    ContextMenu_NV_PVS21_OFF			= "NV_PVS21_OFF",
+    ContextMenu_NV_PVS21_ON				= "NV_PVS21_ON",
+
+    ----Brita_Other_Clothes
+
+    ContextMenu_Susie_Hood_ON		= "Susie_Hood_ON",
+    ContextMenu_Susie_Hood_Back		= "Susie_Hood_Back",
+    ContextMenu_Susie_Hood		= "Susie_Hood",
+    ContextMenu_Suit_Wick_ON		= "Suit_Wick_ON",
+    ContextMenu_Suit_Wick_Back		= "Suit_Wick_Back",
+    ContextMenu_Suit_Wick		= "Suit_Wick",
+    ContextMenu_Suit_Army_ON		= "Suit_Army_ON",
+    ContextMenu_Suit_Army_Back		= "Suit_Army_Back",
+    ContextMenu_Suit_Army		= "Suit_Army",
+    ContextMenu_Suit_Stew_ON		= "Suit_Stew_ON",
+    ContextMenu_Suit_Stew_Back		= "Suit_Stew_Back",
+    ContextMenu_Suit_Stew		= "Suit_Stew",
+    ContextMenu_Coat_Long_ON		= "Coat_Long_ON",
+    ContextMenu_Coat_Long_Back		= "Coat_Long_Back",
+    ContextMenu_Coat_Long		= "Coat_Long",
+    ContextMenu_Military_Coat_Long_ON		= "Military_Coat_Long_ON",
+    ContextMenu_Military_Coat_Long_Back		= "Military_Coat_Long_Back",
+    ContextMenu_Military_Coat_Long		= "Military_Coat_Long",
+    ContextMenu_Suit_Fisher_ON		= "Suit_Fisher_ON",
+    ContextMenu_Suit_Fisher_Back		= "Suit_Fisher_Back",
+    ContextMenu_Suit_Fisher		= "Suit_Fisher",
+    ContextMenu_Apron_Side_ON		= "Apron_Side_ON",
+    ContextMenu_Apron_Side_Back		= "Apron_Side_Back",
+    ContextMenu_Apron_Side		= "Apron_Side",
+    ContextMenu_Star_Cape_ON		= "Star_Cape_ON",
+    ContextMenu_Star_Cape_Back		= "Star_Cape_Back",
+    ContextMenu_Star_Cape		= "Star_Cape",
+    ContextMenu_Kenobi_Cape_ON		= "Kenobi_Cape_ON",
+    ContextMenu_Kenobir_Cape_Back		= "Kenobir_Cape_Back",
+    ContextMenu_Kenobi_Cape		= "Kenobi_Cape",
+
+    ----Brita_Other_Clothes_2
+
+    ContextMenu_Adidas_Track_Pants_Rolled		= "Adidas_Track_Pants_Rolled",
+    ContextMenu_Adidas_Track_Pants_Back		= "Adidas_Track_Pants_Back",
+    ContextMenu_Heather_Bomber_ON		= "Heather_Bomber_ON",
+    ContextMenu_Heather_Bomber_Back		= "Heather_Bomber_Back",
+    ContextMenu_Heather_Bomber		= "Heather_Bomber",
+    ContextMenu_School_Cardigan_ON		= "School_Cardigan_ON",
+    ContextMenu_School_Cardigan_Back		= "School_Cardigan_Back",
+    ContextMenu_School_Cardigan		= "School_Cardigan",
+    ContextMenu_School_Cardigan_Long_ON		= "School_Cardigan_Long_ON",
+    ContextMenu_School_Cardigan_Long_Back		= "School_Cardigan_Long_Back",
+    ContextMenu_School_Cardigan_Long		= "School_Cardigan_Long",
+    ContextMenu_Dress_Cardigan_ON		= "Dress_Cardigan_ON",
+    ContextMenu_Dress_Cardigan_Back		= "Dress_Cardigan_Back",
+    ContextMenu_Dress_Cardigan		= "Dress_Cardigan",
+    ContextMenu_Cardigan_Short_ON		= "Cardigan_Short_ON",
+    ContextMenu_Cardigan_Short_Back		= "Cardigan_Short_Back",
+    ContextMenu_Cardigan_Short		= "Cardigan_Short",
+    ContextMenu_Officer_Overcoat_ON		= "Officer_Overcoat_ON",
+    ContextMenu_Officer_Overcoat_Back		= "Officer_Overcoat_Back",
+    ContextMenu_Officer_Overcoat		= "Officer_Overcoat",
+    ContextMenu_Coast_Jacket_ON		= "Coast_Jacket_ON",
+    ContextMenu_Coast_Jacket_Back		= "Coast_Jacket_Back",
+    ContextMenu_Coast_Jacket		= "Coast_Jacket",
+    ContextMenu_Paramedic_Jacket_ON		= "Paramedic_Jacket_ON",
+    ContextMenu_Paramedic_Jacket_Back		= "Paramedic_Jacket_Back",
+    ContextMenu_Paramedic_Jacket		= "Paramedic_Jacket",
+    ContextMenu_Kawasaki_Jacket_ON		= "Kawasaki_Jacket_ON",
+    ContextMenu_Kawasaki_Jacket_Back		= "Kawasaki_Jacket_Back",
+    ContextMenu_Kawasaki_Jacket		= "Kawasaki_Jacket",
+    ContextMenu_Check_Shirts_ON		= "Check_Shirts_ON",
+    ContextMenu_Check_Shirts_Back		= "Check_Shirts_Back",
+    ContextMenu_Check_Shirts		= "Check_Shirts",
+    ContextMenu_Tac_Check_Shirts_ON		= "Tac_Check_Shirts_ON",
+    ContextMenu_Tac_Check_Shirts_Back		= "Tac_Check_Shirts_Back",
+    ContextMenu_Tac_Check_Shirts		= "Tac_Check_Shirts",
+    ContextMenu_Police_Waterproof_Jacket_ON		= "Police_Waterproof_Jacket_ON",
+    ContextMenu_Police_Waterproof_Jacket_Back		= "Police_Waterproof_Jacket_Back",
+    ContextMenu_Police_Waterproof_Jacket		= "Police_Waterproof_Jacket",
+    ContextMenu_Gunsmith_Jacket_ON		= "Gunsmith_Jacket_ON",
+    ContextMenu_Gunsmith_Jacket_Back		= "Gunsmith_Jacket_Back",
+    ContextMenu_Gunsmith_Jacket		= "Gunsmith_Jacket",
+    ContextMenu_Adidas_Pad_Jacket_ON		= "Adidas_Pad_Jacket_ON",
+    ContextMenu_Adidas_Pad_Jacket_Back		= "Adidas_Pad_Jacket_Back",
+    ContextMenu_Adidas_Pad_Jacket		= "Adidas_Pad_Jacket",
+    ContextMenu_Viking_Fire_Jacket_ON		= "Viking_Fire_Jacket_ON",
+    ContextMenu_Viking_Fire_Jacket_Back		= "Viking_Fire_Jacket_Back",
+    ContextMenu_Viking_Fire_Jacket		= "Viking_Fire_Jacket",
+
+    ----Brita_Other_Helmets
+
+    ContextMenu_Glass_OFF		= "Glass_OFF",
+    ContextMenu_Glass_ON		= "Glass_ON",
+
+    ----Brita_Police_Clothes
+
+    ContextMenu_Jacket_Bomber_ON		= "Jacket_Bomber_ON",
+    ContextMenu_Jacket_Bomber_Back		= "Jacket_Bomber_Back",
+    ContextMenu_Jacket_Bomber		= "Jacket_Bomber",
+    ContextMenu_Jacket_Polizei_ON		= "Jacket_Polizei_ON",
+    ContextMenu_Jacket_Polizei_Back		= "Jacket_Polizei_Back",
+    ContextMenu_Jacket_Polizei		= "Jacket_Polizei",
+
+    ----Brita_Shell_Bandolier
+
+    ContextMenu_Shell_Arm_Bandolier_B		= "Shell_Arm_Bandolier_B",
+    ContextMenu_Shell_Arm_Bandolier_Back		= "Shell_Arm_Bandolier_Back",
+    ContextMenu_Shell_Arm_Bandolier		= "Shell_Arm_Bandolier",
+    ContextMenu_Shell_Arm_Bandolier_ON		= "Shell_Arm_Bandolier_ON",
+    ContextMenu_Shell_Thigh_Bandolier_B		= "Shell_Thigh_Bandolier_B",
+    ContextMenu_Shell_Thigh_Bandolier_Back		= "Shell_Thigh_Bandolier_Back",
+    ContextMenu_Shell_Thigh_Bandolier		= "Shell_Thigh_Bandolier",
+    ContextMenu_Shell_Thigh_Bandolier_ON		= "Shell_Thigh_Bandolier_ON",
+
+    ----Brita_Side_Bag
+
+    ContextMenu_Tactical_Belt_WearBack		= "Tactical_Belt_WearBack",
+    ContextMenu_Tactical_Belt_WearFront		= "Tactical_Belt_WearFront",
+    ContextMenu_Duty_Belt_WearBack		= "Duty_Belt_WearBack",
+    ContextMenu_Duty_Belt_WearFront		= "Duty_Belt_WearFront",
+    ContextMenu_Bottle_Bag_Loose		= "Bottle_Bag_Loose",
+    ContextMenu_Bottle_Bag		= "Bottle_Bag",
+    ContextMenu_Bottle_Bag_(Tight)		= "Bottle_Bag (Tight)",
+    ContextMenu_K1_Bag_Loose		= "K1_Bag_Loose",
+    ContextMenu_K1_Bag		= "K1_Bag",
+    ContextMenu_K1_Bag_(Tight)		= "K1_Bag (Tight)",
+    ContextMenu_OMNI_Pouch_Loose		= "OMNI_Pouch_Loose",
+    ContextMenu_OMNI_Pouch		= "OMNI_Pouch",
+    ContextMenu_OMNI_Pouch_(Tight)		= "OMNI_Pouch (Tight)",
+    ContextMenu_Ashe_Gear_Loose		= "Одягти сзаду",
+    ContextMenu_Ashe_Gear		= "Одягри спереду",
+    ContextMenu_Ashe_Gear_(Tight)		= "Одягти сзаду",
+    ContextMenu_C420_PAPR_Loose		= "C420_PAPR_Loose",
+    ContextMenu_C420_PAPR		= "C420_PAPR",
+    ContextMenu_C420_PAPR_(Tight)		= "C420_PAPR (Tight)",
+    ContextMenu_Belt_Pack_AR_Loose		= "Belt_Pack_AR_Loose",
+    ContextMenu_Belt_Pack_AR		= "Belt_Pack_AR",
+    ContextMenu_Belt_Pack_AR_(Tight)		= "Belt_Pack_AR (Tight)",
+    ContextMenu_Belt_Pack_Gas_Loose		= "Belt_Pack_Gas_Loose",
+    ContextMenu_Belt_Pack_Gas		= "Belt_Pack_Gas",
+    ContextMenu_Belt_Pack_Gas_(Tight)		= "Belt_Pack_Gas (Tight)",
+    ContextMenu_Belt_Pack_Pouch_Loose		= "Belt_Pack_Pouch_Loose",
+    ContextMenu_Belt_Pack_Pouch		= "Belt_Pack_Pouch",
+    ContextMenu_Belt_Pack_Pouch_(Tight)		= "Belt_Pack_Pouch (Tight)",
+    ContextMenu_Belt_Pack_Duty_Loose		= "Belt_Pack_Duty_Loose",
+    ContextMenu_Belt_Pack_Duty		= "Belt_Pack_Duty",
+    ContextMenu_Belt_Pack_Duty_(Tight)		= "Belt_Pack_Duty (Tight)",
+    ContextMenu_Belt_Pack_War_Loose		= "Belt_Pack_War_Loose",
+    ContextMenu_Belt_Pack_War		= "Belt_Pack_War",
+    ContextMenu_Belt_Pack_War_(Tight)		= "Belt_Pack_War (Tight)",
+    ContextMenu_D3CR_Loose		= "D3CR_Loose",
+    ContextMenu_D3CR		= "D3CR",
+    ContextMenu_D3CR_(Tight)		= "D3CR (Tight)",
+    ContextMenu_GM15_Canister_Loose		= "GM15_Canister_Loose",
+    ContextMenu_GM15_Canister		= "GM15_Canister",
+    ContextMenu_GM15_Canister_(Tight)		= "GM15_Canister (Tight)",
+    ContextMenu_Trench_Ammo_Pack_Loose		= "Trench_Ammo_Pack_Loose",
+    ContextMenu_Trench_Ammo_Pack		= "Trench_Ammo_Pack",
+    ContextMenu_Trench_Ammo_Pack_(Tight)		= "Trench_Ammo_Pack (Tight)",
+    ContextMenu_Trench_Grenade_Pack_Loose		= "Trench_Grenade_Pack_Loose",
+    ContextMenu_Trench_Grenade_Pack		= "Trench_Grenade_Pack",
+    ContextMenu_Trench_Grenade_Pack_(Tight)		= "Trench_Grenade_Pack (Tight)",
+
+    ----Brita_Underwear
+
+    ContextMenu_Wool_Stocking_Below		= "Wool_Stocking_Below",
+    ContextMenu_Wool_Stocking_Mismatch		= "Wool_Stocking_Mismatch",
+    ContextMenu_Wool_Stocking_Half		= "Wool_Stocking_Half",
+    ContextMenu_Wool_Stocking		= "Wool_Stocking",
+    ContextMenu_Lace_Stocking_Mismatch		= "Lace_Stocking_Mismatch",
+    ContextMenu_Lace_Stocking_Half		= "Lace_Stocking_Half",
+    ContextMenu_Lace_Stocking		= "Lace_Stocking",
+    ContextMenu_Casual_Stocking_Below		= "Casual_Stocking_Below",
+    ContextMenu_Casual_Stocking_Mismatch		= "Casual_Stocking_Mismatch",
+    ContextMenu_Casual_Stocking_Half		= "Casual_Stocking_Half",
+    ContextMenu_Casual_Stocking		= "Casual_Stocking",
+    ContextMenu_Sweater_Stocking_Below		= "Sweater_Stocking_Below",
+    ContextMenu_Sweater_Stocking_Mismatch		= "Sweater_Stocking_Mismatch",
+    ContextMenu_Sweater_Stocking_Half		= "Sweater_Stocking_Half",
+
+    ----Brita_USCM
+
+    ContextMenu_USCM_Jacket_ON		= "USCM_Jacket_ON",
+    ContextMenu_USCM_Jacket_Back		= "USCM_Jacket_Back",
+    ContextMenu_USCM_Jacket		= "USCM_Jacket",
+    ContextMenu_USCM_Pants_Rolled		= "USCM_Pants_Rolled",
+    ContextMenu_USCM_Pants_Back		= "USCM_Pants_Back",	
+	
+		------------(переклав Nyuel)Tactical Sheaths------------
+		
+	ContextMenu_KnifeSheath_WearBack = "Призначити (Спина)",
+	ContextMenu_KnifeSheath_WearLeg = "Призначити (Стегно)",
+	
+		------------(переклав Nyuel)Expanded Helicopter Events------------
+		
+    ContextMenu_DownHoodie = "Зняти Капюшон",
+	ContextMenu_VisorUp = "Підняти Візор",
+    ContextMenu_VisorDown = "Опустити Візор",
+	ContextMenu_Tighten = "Затягнути",
+    ContextMenu_Untighten = "Розв'язати",
+
+    IGUI_VehiclePartHelicopterInterior = "Інтер'єр Гелікоптера",
+	
+		------------(переклав Nyuel)Coavins Firearm Repair------------
+		
+	ContextMenu_Firearm_Disassemble = "Розібрати",
+	ContextMenu_Firearm_Assemble = "Зібрати",
+	ContextMenu_Firearm_AssemblyInfo = "Інформація про компоненти",
+	ContextMenu_Firearm_RemoveComponent = "Видалити компонент",
+	ContextMenu_Firearm_InstallComponent = "Встановити компонент",
+	ContextMenu_Firearm_InstallInto = "Встановити у",
+	ContextMenu_Firearm_Installed = "Встановлено",
+	ContextMenu_Firearm_NotInstalled = "Не встановлено",
+	ContextMenu_Firearm_NotFound = "Не знайдено %1.",
+	ContextMenu_Firearm_NotFoundEmpty = "Не знайдено %1 з порожнім слотом.",
+	ContextMenu_Firearm_Frame = "Рама",
+	ContextMenu_Firearm_ErrorHasAttachments = "Покращення мають бути видалені.",
+	ContextMenu_Firearm_ErrorHasMagazine = "Магазин має бути витягнутий.",
+	ContextMenu_Firearm_ErrorHasRounds = "Патрони мають бути витягнуті.",
+	ContextMenu_Firearm_ErrorNotCleared = "Камера має бути очищена.",
+	
+		------------(переклав Nyuel)Water Dispenser------------
+		
+	ContextMenu_TakeBottleFromDispenser = "Взяти бак з диспенсера",
+	ContextMenu_PlaceOnDispenser = "Розмістити бак у диспенсері.",
+}

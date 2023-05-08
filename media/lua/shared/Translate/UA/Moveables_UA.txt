@@ -1,0 +1,7 @@
+Moveables_UA = {
+
+		------------(переклав Nyuel)Water Dispenser------------
+	
+    Full_Water_Dispenser = "Диспенсер для води",
+    Empty_Water_Dispenser = "Диспенсер для води",
+}
