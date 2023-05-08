@@ -35,7 +35,7 @@ Tooltip_UA = {
 	Tooltip_craft_stairsDesc = "Ідете вгору. Потім вниз. І зомбі за вами. ",
 	Tooltip_craft_rainBarrelDesc = "Бочка для збору дощової води. ",
 	Tooltip_craft_woodenWallDesc = "Проста дерев'яна стіна, можна барикадувати, штукатурити та фарбувати. ",
-	
+	Tooltip_food_Stale = "Несвіже",	
 		------------TheWorkshop------------
 		
 --workshop

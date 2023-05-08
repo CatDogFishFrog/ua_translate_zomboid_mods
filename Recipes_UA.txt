@@ -380,4 +380,15 @@ Recipes_UA = {
 	Recipe_Make BR89 Front Bullbar = "Зробити Передній захисний бампер 89 Ford Bronco",
 	Recipe_Make BR89 Bed Cover = "Зробити Кришу багажника 89 Ford Bronco",
 	Recipe_Make BR89 Bed Barrier = "Зробити Бар'єр кузова 89 Ford Bronco",
+
+		------------(переклав SerjTheLord)Spongie's Open Jackets------------
+
+    Recipe_Make_Jacket_BlackVest = "Відрізати рукава",
+    Recipe_Make_Jacket_LeatherWildRacoonsVest = "Відрізати рукава",
+    Recipe_Make_Jacket_LeatherIronRodentVest = "Відрізати рукава",
+    Recipe_Make_Jacket_LeatherBarrelDogsVest = "Відрізати рукава",
+
+		------------(переклав SerjTheLord)Spongie's Clothing------------
+
+    Recipe_Make_Flight_Jacket_Vest = "Відрізати рукава",
 }
