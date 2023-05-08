@@ -612,4 +612,25 @@ ContextMenu_UA = {
 		
 	ContextMenu_TakeBottleFromDispenser = "Взяти бак з диспенсера",
 	ContextMenu_PlaceOnDispenser = "Розмістити бак у диспенсері.",
+
+                ------------(переклав SerjTheLord)Search Containers------------
+        ContextMenu_searchButton = "Пошук",
+        ContextMenu_searchTip = "Введіть назву предмета або частину його назви",
+
+                ------------(переклав SerjTheLord)Spongie's Open Jackets та Spongie's Clothing------------
+	ContextMenu_OpenJacket = "Розстібнути",
+	ContextMenu_CloseJacket = "Застібнути"
+	ContextMenu_OpenHoodUp = "Розстібнути, Одягти капюшон",
+	ContextMenu_OpenHoodDown = "Розстібнути, Зняти капюшон",
+	ContextMenu_CloseHoodUp = "Застібнути, Одягти капюшон"
+	ContextMenu_CloseHoodDown = "Застібнути, Зняти капюшон"
+	ContextMenu_TuckIn = "Заправити",
+	ContextMenu_TuckOut = "Вивернути",
+	ContextMenu_RollUp = "Засукати рукава",
+	ContextMenu_RollDown = "Розсукати рукава",
+	ContextMenu_OpenRollUp = "Розстібнути, Засукати рукава",
+	ContextMenu_OpenRollDown = "Розстібнути, Розсукати рукава",
+	ContextMenu_CloseRollUp = "Застібнути, Засукати рукава",
+	ContextMenu_CloseRollDown = "Застібнути, Розсукати рукава",
+	ContextMenu_TieOnWaist = "Обв'язати навколо пояса",
 }
