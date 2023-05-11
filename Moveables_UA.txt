@@ -1,7 +1,7 @@
 Moveables_UA = {
 
-		------------(переклав Nyuel)Water Dispenser------------
+		------------(РїРµСЂРµРєР»Р°РІ Nyuel)Water Dispenser------------
 	
-    Full_Water_Dispenser = "Диспенсер для води",
-    Empty_Water_Dispenser = "Диспенсер для води",
+    Full_Water_Dispenser = "Р”РёСЃРїРµРЅСЃРµСЂ РґР»СЏ РІРѕРґРё",
+    Empty_Water_Dispenser = "Р”РёСЃРїРµРЅСЃРµСЂ РґР»СЏ РІРѕРґРё",
 }

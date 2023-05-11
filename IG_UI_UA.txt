@@ -2,448 +2,448 @@ IGUI_UA = {
 
 		------------Dynamic Traits------------
 		
-	IGUI_PlayerText_PlantStudyDone = "Готово.",
-	IGUI_PlayerText_PlantStudyAlreadyDone = "Я вже вивчив це."
+	IGUI_PlayerText_PlantStudyDone = "Р“РѕС‚РѕРІРѕ.",
+	IGUI_PlayerText_PlantStudyAlreadyDone = "РЇ РІР¶Рµ РІРёРІС‡РёРІ С†Рµ."
 	
 	
 		------------ScrapMods------------
 	
-	IGUI_CraftCategory_Weapons = "Зброя",
-	IGUI_CraftCategory_Scrapping = "Розбір",
-	IGUI_CraftCategory_Armor = "Броня",
-	IGUI_CraftCategory_Tailoring = "Шиття",
-	IGUI_ItemCat_Armor = "Броня"
+	IGUI_CraftCategory_Weapons = "Р—Р±СЂРѕСЏ",
+	IGUI_CraftCategory_Scrapping = "Р РѕР·Р±С–СЂ",
+	IGUI_CraftCategory_Armor = "Р‘СЂРѕРЅСЏ",
+	IGUI_CraftCategory_Tailoring = "РЁРёС‚С‚СЏ",
+	IGUI_ItemCat_Armor = "Р‘СЂРѕРЅСЏ"
 	
 		------------CraftHelperContinued------------
 	
 	IGUI_chc_context_onclick = "Craft Helper"
-    IGUI_AllowSpecialSearch = "Увімкнути спеціальні команди"
-    IGUI_AllowSpecialSearchTooltip = "Команди використовуються під час пошуку (клацніть на лупу зліва від панелі пошуку, щоб дізнатися більше)"
-    IGUI_ShowIcons = "Показувати іконки предметів"
-    IGUI_ShowIconsTooltip = "Показувати іконку результату рецепта/предмету у списку"
-    IGUI_ShowHidden = "Показувати приховані рецепти/предмети"
-    IGUI_ShowHiddenTooltip = "Елементи без DisplayName і рецепти з «IsHidden: true» у визначенні. <LINE> Перезавантажте збереження, щоб набуло чинності"
-    IGUI_CloseAllOnExit = "Закривати всі вкладки при виході"
-    IGUI_CloseAllOnExitTooltip = "Закрити всі вкладки елементів під час закриття вікна (за допомогою гарячої клавіші або натискання «x»)"
-    IGUI_ListFontSize = "Розмір шрифту"
-    IGUI_ListFontSizeTooltip = "Розмір шрифту списку рецептів (лівий стовпець)"
-    IGUI_RecipeSelectorModifier = "Кнопка вибору рецепта"
-    IGUI_RecipeSelectorModifierTooltip = "Клавіші-модифікатори, утримувані під час вибору рецептів (сполучення клавіш '%1' і '%2')"
-    IGUI_CategorySelectorModifier = "Кнопка вибору категорії"
-    IGUI_CategorySelectorModifierTooltip = "Клавіші-модифікатори, утримувані під час вибору категорій (сполучення клавіш '%1' і '%2')"
-    IGUI_TabSelectorModifier = "Кнопка вибору вкладки"
-    IGUI_TabSelectorModifierTooltip = "Клавіші-модифікатори, утримувані під час вибору вкладок (сполучення клавіш '%1' і '%2')"
-    IGUI_ShowRecipeModule = "Показати походження рецепта"
-    IGUI_ShowRecipeModuleTooltip = "Показати мод, звідки взявся рецепт. <LINE> Примітка: мод рецепта — це просто модуль, де цей рецепт було визначено (у файлі .txt). Деякі моди використовують модуль за замовчуванням ('Base')"
-    IGUI_ShowAllItemProps = "Показати всі атрибути предмета"
-    IGUI_ShowAllItemPropsTooltip = "Більшість атрибутів елемента зі значеннями за замовчуванням, по стандарту будуть приховані. Якщо вибрано, будуть показані всі атрибути"
+    IGUI_AllowSpecialSearch = "РЈРІС–РјРєРЅСѓС‚Рё СЃРїРµС†С–Р°Р»СЊРЅС– РєРѕРјР°РЅРґРё"
+    IGUI_AllowSpecialSearchTooltip = "РљРѕРјР°РЅРґРё РІРёРєРѕСЂРёСЃС‚РѕРІСѓСЋС‚СЊСЃСЏ РїС–Рґ С‡Р°СЃ РїРѕС€СѓРєСѓ (РєР»Р°С†РЅС–С‚СЊ РЅР° Р»СѓРїСѓ Р·Р»С–РІР° РІС–Рґ РїР°РЅРµР»С– РїРѕС€СѓРєСѓ, С‰РѕР± РґС–Р·РЅР°С‚РёСЃСЏ Р±С–Р»СЊС€Рµ)"
+    IGUI_ShowIcons = "РџРѕРєР°Р·СѓРІР°С‚Рё С–РєРѕРЅРєРё РїСЂРµРґРјРµС‚С–РІ"
+    IGUI_ShowIconsTooltip = "РџРѕРєР°Р·СѓРІР°С‚Рё С–РєРѕРЅРєСѓ СЂРµР·СѓР»СЊС‚Р°С‚Сѓ СЂРµС†РµРїС‚Р°/РїСЂРµРґРјРµС‚Сѓ Сѓ СЃРїРёСЃРєСѓ"
+    IGUI_ShowHidden = "РџРѕРєР°Р·СѓРІР°С‚Рё РїСЂРёС…РѕРІР°РЅС– СЂРµС†РµРїС‚Рё/РїСЂРµРґРјРµС‚Рё"
+    IGUI_ShowHiddenTooltip = "Р•Р»РµРјРµРЅС‚Рё Р±РµР· DisplayName С– СЂРµС†РµРїС‚Рё Р· В«IsHidden: trueВ» Сѓ РІРёР·РЅР°С‡РµРЅРЅС–. <LINE> РџРµСЂРµР·Р°РІР°РЅС‚Р°Р¶С‚Рµ Р·Р±РµСЂРµР¶РµРЅРЅСЏ, С‰РѕР± РЅР°Р±СѓР»Рѕ С‡РёРЅРЅРѕСЃС‚С–"
+    IGUI_CloseAllOnExit = "Р—Р°РєСЂРёРІР°С‚Рё РІСЃС– РІРєР»Р°РґРєРё РїСЂРё РІРёС…РѕРґС–"
+    IGUI_CloseAllOnExitTooltip = "Р—Р°РєСЂРёС‚Рё РІСЃС– РІРєР»Р°РґРєРё РµР»РµРјРµРЅС‚С–РІ РїС–Рґ С‡Р°СЃ Р·Р°РєСЂРёС‚С‚СЏ РІС–РєРЅР° (Р·Р° РґРѕРїРѕРјРѕРіРѕСЋ РіР°СЂСЏС‡РѕС— РєР»Р°РІС–С€С– Р°Р±Рѕ РЅР°С‚РёСЃРєР°РЅРЅСЏ В«xВ»)"
+    IGUI_ListFontSize = "Р РѕР·РјС–СЂ С€СЂРёС„С‚Сѓ"
+    IGUI_ListFontSizeTooltip = "Р РѕР·РјС–СЂ С€СЂРёС„С‚Сѓ СЃРїРёСЃРєСѓ СЂРµС†РµРїС‚С–РІ (Р»С–РІРёР№ СЃС‚РѕРІРїРµС†СЊ)"
+    IGUI_RecipeSelectorModifier = "РљРЅРѕРїРєР° РІРёР±РѕСЂСѓ СЂРµС†РµРїС‚Р°"
+    IGUI_RecipeSelectorModifierTooltip = "РљР»Р°РІС–С€С–-РјРѕРґРёС„С–РєР°С‚РѕСЂРё, СѓС‚СЂРёРјСѓРІР°РЅС– РїС–Рґ С‡Р°СЃ РІРёР±РѕСЂСѓ СЂРµС†РµРїС‚С–РІ (СЃРїРѕР»СѓС‡РµРЅРЅСЏ РєР»Р°РІС–С€ '%1' С– '%2')"
+    IGUI_CategorySelectorModifier = "РљРЅРѕРїРєР° РІРёР±РѕСЂСѓ РєР°С‚РµРіРѕСЂС–С—"
+    IGUI_CategorySelectorModifierTooltip = "РљР»Р°РІС–С€С–-РјРѕРґРёС„С–РєР°С‚РѕСЂРё, СѓС‚СЂРёРјСѓРІР°РЅС– РїС–Рґ С‡Р°СЃ РІРёР±РѕСЂСѓ РєР°С‚РµРіРѕСЂС–Р№ (СЃРїРѕР»СѓС‡РµРЅРЅСЏ РєР»Р°РІС–С€ '%1' С– '%2')"
+    IGUI_TabSelectorModifier = "РљРЅРѕРїРєР° РІРёР±РѕСЂСѓ РІРєР»Р°РґРєРё"
+    IGUI_TabSelectorModifierTooltip = "РљР»Р°РІС–С€С–-РјРѕРґРёС„С–РєР°С‚РѕСЂРё, СѓС‚СЂРёРјСѓРІР°РЅС– РїС–Рґ С‡Р°СЃ РІРёР±РѕСЂСѓ РІРєР»Р°РґРѕРє (СЃРїРѕР»СѓС‡РµРЅРЅСЏ РєР»Р°РІС–С€ '%1' С– '%2')"
+    IGUI_ShowRecipeModule = "РџРѕРєР°Р·Р°С‚Рё РїРѕС…РѕРґР¶РµРЅРЅСЏ СЂРµС†РµРїС‚Р°"
+    IGUI_ShowRecipeModuleTooltip = "РџРѕРєР°Р·Р°С‚Рё РјРѕРґ, Р·РІС–РґРєРё РІР·СЏРІСЃСЏ СЂРµС†РµРїС‚. <LINE> РџСЂРёРјС–С‚РєР°: РјРѕРґ СЂРµС†РµРїС‚Р° вЂ” С†Рµ РїСЂРѕСЃС‚Рѕ РјРѕРґСѓР»СЊ, РґРµ С†РµР№ СЂРµС†РµРїС‚ Р±СѓР»Рѕ РІРёР·РЅР°С‡РµРЅРѕ (Сѓ С„Р°Р№Р»С– .txt). Р”РµСЏРєС– РјРѕРґРё РІРёРєРѕСЂРёСЃС‚РѕРІСѓСЋС‚СЊ РјРѕРґСѓР»СЊ Р·Р° Р·Р°РјРѕРІС‡СѓРІР°РЅРЅСЏРј ('Base')"
+    IGUI_ShowAllItemProps = "РџРѕРєР°Р·Р°С‚Рё РІСЃС– Р°С‚СЂРёР±СѓС‚Рё РїСЂРµРґРјРµС‚Р°"
+    IGUI_ShowAllItemPropsTooltip = "Р‘С–Р»СЊС€С–СЃС‚СЊ Р°С‚СЂРёР±СѓС‚С–РІ РµР»РµРјРµРЅС‚Р° Р·С– Р·РЅР°С‡РµРЅРЅСЏРјРё Р·Р° Р·Р°РјРѕРІС‡СѓРІР°РЅРЅСЏРј, РїРѕ СЃС‚Р°РЅРґР°СЂС‚Сѓ Р±СѓРґСѓС‚СЊ РїСЂРёС…РѕРІР°РЅС–. РЇРєС‰Рѕ РІРёР±СЂР°РЅРѕ, Р±СѓРґСѓС‚СЊ РїРѕРєР°Р·Р°РЅС– РІСЃС– Р°С‚СЂРёР±СѓС‚Рё"
 
-    IGUI_CHC_ItemCat_AlarmClockClothing = "Наручний годинник"
-    IGUI_CHC_ItemCat_Drainable = "Вичерпне"
-    IGUI_CHC_ItemCat_Map = "Мапа"
-    IGUI_CHC_ItemCat_Moveable = "Меблі"
-    IGUI_CHC_ItemCat_Normal = "Різне"
-    IGUI_CHC_ItemCat_Radio = "Радіо"
-    IGUI_CHC_ItemCat_Key = "Ключі"
-    IGUI_new_tab = "Відкрити нову вкладку"
-    IGUI_find_item = "Знайти предмет"
-    IGUI_mod_chc = "Мод"
-    IGUI_tab_ctx_close_others = "Закрити інші"
-    IGUI_no_recipes = "Рецептів не знайдено"
-    IGUI_ShowFavItemsInventory = "Показати іконки обраних предметів"
-    IGUI_ShowFavItemsInventoryTooltip = "Показує синю зірочку на предметі в інвентарі (предмет має бути у обраному)"
-    IGUI_EditableCategorySelector = "Увімкнути введення тексту в селекторі категорії"
-    IGUI_EditableCategorySelectorTooltip = "Змініть вкладку, щоб застосувати"
-    IGUI_TextTooLongTooltip = "<RED> Текст занадто великий <RGB:1,1,1>"
-    IGUI_chc_Copy = "Копіювати"
-    IGUI_CopyNameProps_ctx = "Назва"
-    IGUI_CopyValueProps_ctx = "Значення"
-    IGUI_CopyValueSearchProps_ctx = "Значення для пошуку"
-    IGUI_PinProps_ctx = "Закріпити"
-    IGUI_UnpinProps_ctx = "Відкріпити"
-    IGUI_BlacklistProps_ctx = "Чорний список"
-    IGUI_UnblacklistProps_ctx = "Виключити з чорного списку"
-    IGUI_ItemDetails_Attributes_tab = "Атрибути"
+    IGUI_CHC_ItemCat_AlarmClockClothing = "РќР°СЂСѓС‡РЅРёР№ РіРѕРґРёРЅРЅРёРє"
+    IGUI_CHC_ItemCat_Drainable = "Р’РёС‡РµСЂРїРЅРµ"
+    IGUI_CHC_ItemCat_Map = "РњР°РїР°"
+    IGUI_CHC_ItemCat_Moveable = "РњРµР±Р»С–"
+    IGUI_CHC_ItemCat_Normal = "Р С–Р·РЅРµ"
+    IGUI_CHC_ItemCat_Radio = "Р Р°РґС–Рѕ"
+    IGUI_CHC_ItemCat_Key = "РљР»СЋС‡С–"
+    IGUI_new_tab = "Р’С–РґРєСЂРёС‚Рё РЅРѕРІСѓ РІРєР»Р°РґРєСѓ"
+    IGUI_find_item = "Р—РЅР°Р№С‚Рё РїСЂРµРґРјРµС‚"
+    IGUI_mod_chc = "РњРѕРґ"
+    IGUI_tab_ctx_close_others = "Р—Р°РєСЂРёС‚Рё С–РЅС€С–"
+    IGUI_no_recipes = "Р РµС†РµРїС‚С–РІ РЅРµ Р·РЅР°Р№РґРµРЅРѕ"
+    IGUI_ShowFavItemsInventory = "РџРѕРєР°Р·Р°С‚Рё С–РєРѕРЅРєРё РѕР±СЂР°РЅРёС… РїСЂРµРґРјРµС‚С–РІ"
+    IGUI_ShowFavItemsInventoryTooltip = "РџРѕРєР°Р·СѓС” СЃРёРЅСЋ Р·С–СЂРѕС‡РєСѓ РЅР° РїСЂРµРґРјРµС‚С– РІ С–РЅРІРµРЅС‚Р°СЂС– (РїСЂРµРґРјРµС‚ РјР°С” Р±СѓС‚Рё Сѓ РѕР±СЂР°РЅРѕРјСѓ)"
+    IGUI_EditableCategorySelector = "РЈРІС–РјРєРЅСѓС‚Рё РІРІРµРґРµРЅРЅСЏ С‚РµРєСЃС‚Сѓ РІ СЃРµР»РµРєС‚РѕСЂС– РєР°С‚РµРіРѕСЂС–С—"
+    IGUI_EditableCategorySelectorTooltip = "Р—РјС–РЅС–С‚СЊ РІРєР»Р°РґРєСѓ, С‰РѕР± Р·Р°СЃС‚РѕСЃСѓРІР°С‚Рё"
+    IGUI_TextTooLongTooltip = "<RED> РўРµРєСЃС‚ Р·Р°РЅР°РґС‚Рѕ РІРµР»РёРєРёР№ <RGB:1,1,1>"
+    IGUI_chc_Copy = "РљРѕРїС–СЋРІР°С‚Рё"
+    IGUI_CopyNameProps_ctx = "РќР°Р·РІР°"
+    IGUI_CopyValueProps_ctx = "Р—РЅР°С‡РµРЅРЅСЏ"
+    IGUI_CopyValueSearchProps_ctx = "Р—РЅР°С‡РµРЅРЅСЏ РґР»СЏ РїРѕС€СѓРєСѓ"
+    IGUI_PinProps_ctx = "Р—Р°РєСЂС–РїРёС‚Рё"
+    IGUI_UnpinProps_ctx = "Р’С–РґРєСЂС–РїРёС‚Рё"
+    IGUI_BlacklistProps_ctx = "Р§РѕСЂРЅРёР№ СЃРїРёСЃРѕРє"
+    IGUI_UnblacklistProps_ctx = "Р’РёРєР»СЋС‡РёС‚Рё Р· С‡РѕСЂРЅРѕРіРѕ СЃРїРёСЃРєСѓ"
+    IGUI_ItemDetails_Attributes_tab = "РђС‚СЂРёР±СѓС‚Рё"
 	
 		------------Weapon Condition Indicator------------
 	
-	IGUI_TheStar_Notification_ItemFall = "Ви впустили %1",
+	IGUI_TheStar_Notification_ItemFall = "Р’Рё РІРїСѓСЃС‚РёР»Рё %1",
 	
 		------------LitSortOGSN------------
 	
-	IGUI_PlayerText_FlaggedBook1 = "Я буду шукати це.",
-	IGUI_PlayerText_FlaggedBook2 = "Я запам'ятаю, що я це бачив.",
-	IGUI_PlayerText_FlaggedBook3 = "Я зроблю нотатку про це та запам'ятаю.",
+	IGUI_PlayerText_FlaggedBook1 = "РЇ Р±СѓРґСѓ С€СѓРєР°С‚Рё С†Рµ.",
+	IGUI_PlayerText_FlaggedBook2 = "РЇ Р·Р°РїР°Рј'СЏС‚Р°СЋ, С‰Рѕ СЏ С†Рµ Р±Р°С‡РёРІ.",
+	IGUI_PlayerText_FlaggedBook3 = "РЇ Р·СЂРѕР±Р»СЋ РЅРѕС‚Р°С‚РєСѓ РїСЂРѕ С†Рµ С‚Р° Р·Р°РїР°Рј'СЏС‚Р°СЋ.",
 	
 		------------BetterSorting+AddOns------------
 	
-	IGUI_ItemCat_Appear = "Зовнішній вигляд",
-	IGUI_ItemCat_Appearance = "Зовнішній вигляд",
-	IGUI_ItemCat_Cleaning = "Прибирання",
-	IGUI_ItemCat_Cloth = "Одяг",
-	IGUI_ItemCat_ClothA = "Одяг - Аксесуари",
-	IGUI_ItemCat_ClothB = "Одяг - Сумки",
-	IGUI_ItemCat_ClothM = "Одяг - Різне",
-	IGUI_ItemCat_Container = "Контейнери",
-	IGUI_ItemCat_Cooking = "Кулінарія",
-	IGUI_ItemCat_Craft = "Крафт",
-	IGUI_ItemCat_CraftAmmo = "Крафт - Амуніція",
-	IGUI_ItemCat_CraftCarp = "Крафт - Будівництво",
-	IGUI_ItemCat_CraftElec = "Крафт - Електроніка",
-	IGUI_ItemCat_CraftMas = "Крафт - Кам'яна кладка",
-	IGUI_ItemCat_CraftMason = "Крафт - Кам'яна кладка";
-	IGUI_ItemCat_CraftMetal = "Крафт - Металообробка",
-	IGUI_ItemCat_CraftTailor = "Крафт - Шиття",
-	IGUI_ItemCat_CraftMB = "Крафт - Пивоваріння",
-	IGUI_ItemCat_CraftWM = "Крафт - Виноробство",
-	IGUI_ItemCat_Drugs = "Препарати/Наркотики",
-	IGUI_ItemCat_Electronics = "Електроніка",
-	IGUI_ItemCat_FoodB = "Їжа - Напої",
-	IGUI_ItemCat_FoodP = "Їжа - Швидкопсувні",
-	IGUI_ItemCat_FoodN = "Їжа - Без терміну",
-	IGUI_ItemCat_Fuel = "Пальне",
-	IGUI_ItemCat_Junk = "Сміття",
-	IGUI_ItemCat_LitE = "Література - Відпочинок",
-	IGUI_ItemCat_LitR = "Література - Рецепти",
-	IGUI_ItemCat_LitS = "Література - Навички",
-	IGUI_ItemCat_LitW = "Література - Для нотаток",
-	IGUI_ItemCat_Map = "Мапи",
-	IGUI_ItemCat_Mechanics = "Механіка",
-	IGUI_ItemCat_MediaA = "Медіа - Аудіо",
-	IGUI_ItemCat_MediaG = "Медіа - Гра",
-	IGUI_ItemCat_MediaV = "Медіа - Відео",
-	IGUI_ItemCat_Medical = "Медицина",
-	IGUI_ItemCat_Misc = "Різне",
-	IGUI_ItemCat_Paint = "Малювання",
-	IGUI_ItemCat_SurCamp = "Виживання - Кемпінг",
-	IGUI_ItemCat_SurFarm = "Виживання - Фермерство",
-	IGUI_ItemCat_SurFish = "Виживання - Риболовля",
-	IGUI_ItemCat_SurTrap = "Виживання - Пастки",
-	IGUI_ItemCat_Tool = "Інструменти",
-	IGUI_ItemCat_Ammo = "Амуніція",
-	IGUI_ItemCat_WepAmmoMag = "Зброя - Магазини",
-	IGUI_ItemCat_WepAmmoMagF = "Зброя - Магазини (Відремонтовані)",
-	IGUI_ItemCat_WepBomb = "Зброя - Бомби",
-	IGUI_ItemCat_WepBow = "Зброя - Лук",
-	IGUI_ItemCat_WepFire = "Зброя - Вогнепальна",
-	IGUI_ItemCat_WepMelee = "Зброя - Ближня",
-	IGUI_ItemCat_WepPart = "Зброя - Аксесуари",
-	IGUI_ItemCat_WepRanged = "Зброя - Кидання",
-	IGUI_ItemCat_WepShield = "Зброя - Щити",
-	IGUI_ItemCat_LightS = "Джерело світла";
-	IGUI_ItemCat_ClothArm = "Одяг - Руки",
-	IGUI_ItemCat_ClothAA = "Одяг - Руки (Обладунки)",
-	IGUI_ItemCat_ClothApron = "Одяг - Фартух",
-	IGUI_ItemCat_ClothE = "Одяг - Вуха",
-	IGUI_ItemCat_ClothF = "Одяг - Стопи",
-	IGUI_ItemCat_ClothFA = "Одяг - Стопи (Обладунки)",
-	IGUI_ItemCat_ClothFS = "Одяг - Стопи (Шкарпетки)",
-	IGUI_ItemCat_ClothHW = "Одяг - Долоні",
-	IGUI_ItemCat_ClothHWA = "Одяг - Долоні (Обладунки)",
-	IGUI_ItemCat_ClothH = "Одяг - Голова",
-	IGUI_ItemCat_ClothHelm = "Одяг - Шолом",
-	IGUI_ItemCat_ClothHelmA = "Одяг - Шолом аксесуар",
-	IGUI_ItemCat_ClothL = "Одяг - Ноги",
-	IGUI_ItemCat_ClothLA = "Одяг - Ноги (Обладунки)",
-	IGUI_ItemCat_ClothMask = "Одяг - Маски",
-	IGUI_ItemCat_ClothN = "Одяг - Шия",
-	IGUI_ItemCat_ClothS = "Одяг - Комбінезон",
-	IGUI_ItemCat_ClothSA = "Одяг - Комбінезон (Обладунки)",
-	IGUI_ItemCat_ClothT = "Одяг - Тулуб",
-	IGUI_ItemCat_ClothTA = "Одяг - Тулуб (Обладунки)",
-	IGUI_ItemCat_ClothTO = "Одяг - Тулуб (Верхній одяг)",
-	IGUI_ItemCat_ClothTU = "Одяг - Тулуб (Білизна)",
-	IGUI_ItemCat_ClothU	= "Одяг - Білизна",
-	IGUI_ItemCat_ClothWaist = "Одяг - Пояс",
-	IGUI_ItemCat_ClothW	= "Одяг - Зап'ястя",
-	IGUI_ItemCat_CookWep = "Кулінарія/Зброя - Ближня",
-	IGUI_ItemCat_CraftHob = "Крафт - Хобі",
-	IGUI_ItemCat_Furn = "Меблі",
-	IGUI_ItemCat_FurnA = "Меблі - Електроприлад",
-	IGUI_ItemCat_FurnC = "Меблі - Контейнер",
-	IGUI_ItemCat_FurnD = "Меблі - Декорація",
-	IGUI_ItemCat_FurnF = "Меблі - Сантехніка",
-	IGUI_ItemCat_FurnL = "Меблі - Світильник",
-	IGUI_ItemCat_FurnSeat = "Меблі - Для сидіння",
-	IGUI_ItemCat_HC = "Хобі - Колекціонування",
-	IGUI_ItemCat_HM = "Хобі - Моделі",
-	IGUI_ItemCat_LitG = "Література - Посібник",
-	IGUI_ItemCat_LitT = "Література - Тренування",
-	IGUI_ItemCat_MechAcc = "Механіка - Аксесуари",
-	IGUI_ItemCat_MechArm = "Механіка - Броня",
-	IGUI_ItemCat_MechBat = "Механіка - Акумулятор",
-	IGUI_ItemCat_MechBike = "Механіка - Мотоцикл",
-	IGUI_ItemCat_MechBod = "Механіка - Корпус",
-	IGUI_ItemCat_MechB = "Механіка - Гальма",
-	IGUI_ItemCat_MechBump = "Механіка - Бампер",
-	IGUI_ItemCat_MechD = "Механіка - Двері",
-	IGUI_ItemCat_MechE = "Механіка - Двигун",
-	IGUI_ItemCat_MechFarm = "Механіка - Фермерство",
-	IGUI_ItemCat_MechG = "Механіка - Скло",
-	IGUI_ItemCat_MechGB = "Механіка - Бардачок",
-	IGUI_ItemCat_MechGT = "Механіка - Бензобак",
-	IGUI_ItemCat_MechHeat = "Механіка - Обігрівач",
-	IGUI_ItemCat_MechHood = "Механіка - Капот",
-	IGUI_ItemCat_MechLB = "Механіка - Світильник",
-	IGUI_ItemCat_MechM = "Механіка - Глушник",
-	IGUI_ItemCat_MechN = "Механіка - Човен",
-	IGUI_ItemCat_MechSeat = "Механіка - Видіння",
-	IGUI_ITemCat_MechStor = "Механіка - Сховище",
-	IGUI_ItemCat_MechS = "Механіка - Підвіска",
-	IGUI_ItemCat_MechTire = "Механіка - Шини",
-	IGUI_ItemCat_MechTrunk = "Механіка - Багажник ",
-	IGUI_ItemCat_MechWT = "Механіка - Бак води",
-	IGUI_ItemCat_MechWep = "Механіка - Зброя",
-	IGUI_ItemCat_Plush = "Плюшеві іграшки",
-	IGUI_ItemCat_SurHunt = "Виживання - Полювання",
-	IGUI_ItemCat_SurWater = "Виживання - Вода",
-	IGUI_ItemCat_TWepM = "Інструменти/Зброя - Ближня",
-	IGUI_ItemCat_TWepR = "Інструменти/Зброя - Далекобійна",
-	IGUI_ItemCat_Utility = "Корисне"
+	IGUI_ItemCat_Appear = "Р—РѕРІРЅС–С€РЅС–Р№ РІРёРіР»СЏРґ",
+	IGUI_ItemCat_Appearance = "Р—РѕРІРЅС–С€РЅС–Р№ РІРёРіР»СЏРґ",
+	IGUI_ItemCat_Cleaning = "РџСЂРёР±РёСЂР°РЅРЅСЏ",
+	IGUI_ItemCat_Cloth = "РћРґСЏРі",
+	IGUI_ItemCat_ClothA = "РћРґСЏРі - РђРєСЃРµСЃСѓР°СЂРё",
+	IGUI_ItemCat_ClothB = "РћРґСЏРі - РЎСѓРјРєРё",
+	IGUI_ItemCat_ClothM = "РћРґСЏРі - Р С–Р·РЅРµ",
+	IGUI_ItemCat_Container = "РљРѕРЅС‚РµР№РЅРµСЂРё",
+	IGUI_ItemCat_Cooking = "РљСѓР»С–РЅР°СЂС–СЏ",
+	IGUI_ItemCat_Craft = "РљСЂР°С„С‚",
+	IGUI_ItemCat_CraftAmmo = "РљСЂР°С„С‚ - РђРјСѓРЅС–С†С–СЏ",
+	IGUI_ItemCat_CraftCarp = "РљСЂР°С„С‚ - Р‘СѓРґС–РІРЅРёС†С‚РІРѕ",
+	IGUI_ItemCat_CraftElec = "РљСЂР°С„С‚ - Р•Р»РµРєС‚СЂРѕРЅС–РєР°",
+	IGUI_ItemCat_CraftMas = "РљСЂР°С„С‚ - РљР°Рј'СЏРЅР° РєР»Р°РґРєР°",
+	IGUI_ItemCat_CraftMason = "РљСЂР°С„С‚ - РљР°Рј'СЏРЅР° РєР»Р°РґРєР°";
+	IGUI_ItemCat_CraftMetal = "РљСЂР°С„С‚ - РњРµС‚Р°Р»РѕРѕР±СЂРѕР±РєР°",
+	IGUI_ItemCat_CraftTailor = "РљСЂР°С„С‚ - РЁРёС‚С‚СЏ",
+	IGUI_ItemCat_CraftMB = "РљСЂР°С„С‚ - РџРёРІРѕРІР°СЂС–РЅРЅСЏ",
+	IGUI_ItemCat_CraftWM = "РљСЂР°С„С‚ - Р’РёРЅРѕСЂРѕР±СЃС‚РІРѕ",
+	IGUI_ItemCat_Drugs = "РџСЂРµРїР°СЂР°С‚Рё/РќР°СЂРєРѕС‚РёРєРё",
+	IGUI_ItemCat_Electronics = "Р•Р»РµРєС‚СЂРѕРЅС–РєР°",
+	IGUI_ItemCat_FoodB = "Р‡Р¶Р° - РќР°РїРѕС—",
+	IGUI_ItemCat_FoodP = "Р‡Р¶Р° - РЁРІРёРґРєРѕРїСЃСѓРІРЅС–",
+	IGUI_ItemCat_FoodN = "Р‡Р¶Р° - Р‘РµР· С‚РµСЂРјС–РЅСѓ",
+	IGUI_ItemCat_Fuel = "РџР°Р»СЊРЅРµ",
+	IGUI_ItemCat_Junk = "РЎРјС–С‚С‚СЏ",
+	IGUI_ItemCat_LitE = "Р›С–С‚РµСЂР°С‚СѓСЂР° - Р’С–РґРїРѕС‡РёРЅРѕРє",
+	IGUI_ItemCat_LitR = "Р›С–С‚РµСЂР°С‚СѓСЂР° - Р РµС†РµРїС‚Рё",
+	IGUI_ItemCat_LitS = "Р›С–С‚РµСЂР°С‚СѓСЂР° - РќР°РІРёС‡РєРё",
+	IGUI_ItemCat_LitW = "Р›С–С‚РµСЂР°С‚СѓСЂР° - Р”Р»СЏ РЅРѕС‚Р°С‚РѕРє",
+	IGUI_ItemCat_Map = "РњР°РїРё",
+	IGUI_ItemCat_Mechanics = "РњРµС…Р°РЅС–РєР°",
+	IGUI_ItemCat_MediaA = "РњРµРґС–Р° - РђСѓРґС–Рѕ",
+	IGUI_ItemCat_MediaG = "РњРµРґС–Р° - Р“СЂР°",
+	IGUI_ItemCat_MediaV = "РњРµРґС–Р° - Р’С–РґРµРѕ",
+	IGUI_ItemCat_Medical = "РњРµРґРёС†РёРЅР°",
+	IGUI_ItemCat_Misc = "Р С–Р·РЅРµ",
+	IGUI_ItemCat_Paint = "РњР°Р»СЋРІР°РЅРЅСЏ",
+	IGUI_ItemCat_SurCamp = "Р’РёР¶РёРІР°РЅРЅСЏ - РљРµРјРїС–РЅРі",
+	IGUI_ItemCat_SurFarm = "Р’РёР¶РёРІР°РЅРЅСЏ - Р¤РµСЂРјРµСЂСЃС‚РІРѕ",
+	IGUI_ItemCat_SurFish = "Р’РёР¶РёРІР°РЅРЅСЏ - Р РёР±РѕР»РѕРІР»СЏ",
+	IGUI_ItemCat_SurTrap = "Р’РёР¶РёРІР°РЅРЅСЏ - РџР°СЃС‚РєРё",
+	IGUI_ItemCat_Tool = "Р†РЅСЃС‚СЂСѓРјРµРЅС‚Рё",
+	IGUI_ItemCat_Ammo = "РђРјСѓРЅС–С†С–СЏ",
+	IGUI_ItemCat_WepAmmoMag = "Р—Р±СЂРѕСЏ - РњР°РіР°Р·РёРЅРё",
+	IGUI_ItemCat_WepAmmoMagF = "Р—Р±СЂРѕСЏ - РњР°РіР°Р·РёРЅРё (Р’С–РґСЂРµРјРѕРЅС‚РѕРІР°РЅС–)",
+	IGUI_ItemCat_WepBomb = "Р—Р±СЂРѕСЏ - Р‘РѕРјР±Рё",
+	IGUI_ItemCat_WepBow = "Р—Р±СЂРѕСЏ - Р›СѓРє",
+	IGUI_ItemCat_WepFire = "Р—Р±СЂРѕСЏ - Р’РѕРіРЅРµРїР°Р»СЊРЅР°",
+	IGUI_ItemCat_WepMelee = "Р—Р±СЂРѕСЏ - Р‘Р»РёР¶РЅСЏ",
+	IGUI_ItemCat_WepPart = "Р—Р±СЂРѕСЏ - РђРєСЃРµСЃСѓР°СЂРё",
+	IGUI_ItemCat_WepRanged = "Р—Р±СЂРѕСЏ - РљРёРґР°РЅРЅСЏ",
+	IGUI_ItemCat_WepShield = "Р—Р±СЂРѕСЏ - Р©РёС‚Рё",
+	IGUI_ItemCat_LightS = "Р”Р¶РµСЂРµР»Рѕ СЃРІС–С‚Р»Р°";
+	IGUI_ItemCat_ClothArm = "РћРґСЏРі - Р СѓРєРё",
+	IGUI_ItemCat_ClothAA = "РћРґСЏРі - Р СѓРєРё (РћР±Р»Р°РґСѓРЅРєРё)",
+	IGUI_ItemCat_ClothApron = "РћРґСЏРі - Р¤Р°СЂС‚СѓС…",
+	IGUI_ItemCat_ClothE = "РћРґСЏРі - Р’СѓС…Р°",
+	IGUI_ItemCat_ClothF = "РћРґСЏРі - РЎС‚РѕРїРё",
+	IGUI_ItemCat_ClothFA = "РћРґСЏРі - РЎС‚РѕРїРё (РћР±Р»Р°РґСѓРЅРєРё)",
+	IGUI_ItemCat_ClothFS = "РћРґСЏРі - РЎС‚РѕРїРё (РЁРєР°СЂРїРµС‚РєРё)",
+	IGUI_ItemCat_ClothHW = "РћРґСЏРі - Р”РѕР»РѕРЅС–",
+	IGUI_ItemCat_ClothHWA = "РћРґСЏРі - Р”РѕР»РѕРЅС– (РћР±Р»Р°РґСѓРЅРєРё)",
+	IGUI_ItemCat_ClothH = "РћРґСЏРі - Р“РѕР»РѕРІР°",
+	IGUI_ItemCat_ClothHelm = "РћРґСЏРі - РЁРѕР»РѕРј",
+	IGUI_ItemCat_ClothHelmA = "РћРґСЏРі - РЁРѕР»РѕРј Р°РєСЃРµСЃСѓР°СЂ",
+	IGUI_ItemCat_ClothL = "РћРґСЏРі - РќРѕРіРё",
+	IGUI_ItemCat_ClothLA = "РћРґСЏРі - РќРѕРіРё (РћР±Р»Р°РґСѓРЅРєРё)",
+	IGUI_ItemCat_ClothMask = "РћРґСЏРі - РњР°СЃРєРё",
+	IGUI_ItemCat_ClothN = "РћРґСЏРі - РЁРёСЏ",
+	IGUI_ItemCat_ClothS = "РћРґСЏРі - РљРѕРјР±С–РЅРµР·РѕРЅ",
+	IGUI_ItemCat_ClothSA = "РћРґСЏРі - РљРѕРјР±С–РЅРµР·РѕРЅ (РћР±Р»Р°РґСѓРЅРєРё)",
+	IGUI_ItemCat_ClothT = "РћРґСЏРі - РўСѓР»СѓР±",
+	IGUI_ItemCat_ClothTA = "РћРґСЏРі - РўСѓР»СѓР± (РћР±Р»Р°РґСѓРЅРєРё)",
+	IGUI_ItemCat_ClothTO = "РћРґСЏРі - РўСѓР»СѓР± (Р’РµСЂС…РЅС–Р№ РѕРґСЏРі)",
+	IGUI_ItemCat_ClothTU = "РћРґСЏРі - РўСѓР»СѓР± (Р‘С–Р»РёР·РЅР°)",
+	IGUI_ItemCat_ClothU	= "РћРґСЏРі - Р‘С–Р»РёР·РЅР°",
+	IGUI_ItemCat_ClothWaist = "РћРґСЏРі - РџРѕСЏСЃ",
+	IGUI_ItemCat_ClothW	= "РћРґСЏРі - Р—Р°Рї'СЏСЃС‚СЏ",
+	IGUI_ItemCat_CookWep = "РљСѓР»С–РЅР°СЂС–СЏ/Р—Р±СЂРѕСЏ - Р‘Р»РёР¶РЅСЏ",
+	IGUI_ItemCat_CraftHob = "РљСЂР°С„С‚ - РҐРѕР±С–",
+	IGUI_ItemCat_Furn = "РњРµР±Р»С–",
+	IGUI_ItemCat_FurnA = "РњРµР±Р»С– - Р•Р»РµРєС‚СЂРѕРїСЂРёР»Р°Рґ",
+	IGUI_ItemCat_FurnC = "РњРµР±Р»С– - РљРѕРЅС‚РµР№РЅРµСЂ",
+	IGUI_ItemCat_FurnD = "РњРµР±Р»С– - Р”РµРєРѕСЂР°С†С–СЏ",
+	IGUI_ItemCat_FurnF = "РњРµР±Р»С– - РЎР°РЅС‚РµС…РЅС–РєР°",
+	IGUI_ItemCat_FurnL = "РњРµР±Р»С– - РЎРІС–С‚РёР»СЊРЅРёРє",
+	IGUI_ItemCat_FurnSeat = "РњРµР±Р»С– - Р”Р»СЏ СЃРёРґС–РЅРЅСЏ",
+	IGUI_ItemCat_HC = "РҐРѕР±С– - РљРѕР»РµРєС†С–РѕРЅСѓРІР°РЅРЅСЏ",
+	IGUI_ItemCat_HM = "РҐРѕР±С– - РњРѕРґРµР»С–",
+	IGUI_ItemCat_LitG = "Р›С–С‚РµСЂР°С‚СѓСЂР° - РџРѕСЃС–Р±РЅРёРє",
+	IGUI_ItemCat_LitT = "Р›С–С‚РµСЂР°С‚СѓСЂР° - РўСЂРµРЅСѓРІР°РЅРЅСЏ",
+	IGUI_ItemCat_MechAcc = "РњРµС…Р°РЅС–РєР° - РђРєСЃРµСЃСѓР°СЂРё",
+	IGUI_ItemCat_MechArm = "РњРµС…Р°РЅС–РєР° - Р‘СЂРѕРЅСЏ",
+	IGUI_ItemCat_MechBat = "РњРµС…Р°РЅС–РєР° - РђРєСѓРјСѓР»СЏС‚РѕСЂ",
+	IGUI_ItemCat_MechBike = "РњРµС…Р°РЅС–РєР° - РњРѕС‚РѕС†РёРєР»",
+	IGUI_ItemCat_MechBod = "РњРµС…Р°РЅС–РєР° - РљРѕСЂРїСѓСЃ",
+	IGUI_ItemCat_MechB = "РњРµС…Р°РЅС–РєР° - Р“Р°Р»СЊРјР°",
+	IGUI_ItemCat_MechBump = "РњРµС…Р°РЅС–РєР° - Р‘Р°РјРїРµСЂ",
+	IGUI_ItemCat_MechD = "РњРµС…Р°РЅС–РєР° - Р”РІРµСЂС–",
+	IGUI_ItemCat_MechE = "РњРµС…Р°РЅС–РєР° - Р”РІРёРіСѓРЅ",
+	IGUI_ItemCat_MechFarm = "РњРµС…Р°РЅС–РєР° - Р¤РµСЂРјРµСЂСЃС‚РІРѕ",
+	IGUI_ItemCat_MechG = "РњРµС…Р°РЅС–РєР° - РЎРєР»Рѕ",
+	IGUI_ItemCat_MechGB = "РњРµС…Р°РЅС–РєР° - Р‘Р°СЂРґР°С‡РѕРє",
+	IGUI_ItemCat_MechGT = "РњРµС…Р°РЅС–РєР° - Р‘РµРЅР·РѕР±Р°Рє",
+	IGUI_ItemCat_MechHeat = "РњРµС…Р°РЅС–РєР° - РћР±С–РіСЂС–РІР°С‡",
+	IGUI_ItemCat_MechHood = "РњРµС…Р°РЅС–РєР° - РљР°РїРѕС‚",
+	IGUI_ItemCat_MechLB = "РњРµС…Р°РЅС–РєР° - РЎРІС–С‚РёР»СЊРЅРёРє",
+	IGUI_ItemCat_MechM = "РњРµС…Р°РЅС–РєР° - Р“Р»СѓС€РЅРёРє",
+	IGUI_ItemCat_MechN = "РњРµС…Р°РЅС–РєР° - Р§РѕРІРµРЅ",
+	IGUI_ItemCat_MechSeat = "РњРµС…Р°РЅС–РєР° - Р’РёРґС–РЅРЅСЏ",
+	IGUI_ITemCat_MechStor = "РњРµС…Р°РЅС–РєР° - РЎС…РѕРІРёС‰Рµ",
+	IGUI_ItemCat_MechS = "РњРµС…Р°РЅС–РєР° - РџС–РґРІС–СЃРєР°",
+	IGUI_ItemCat_MechTire = "РњРµС…Р°РЅС–РєР° - РЁРёРЅРё",
+	IGUI_ItemCat_MechTrunk = "РњРµС…Р°РЅС–РєР° - Р‘Р°РіР°Р¶РЅРёРє ",
+	IGUI_ItemCat_MechWT = "РњРµС…Р°РЅС–РєР° - Р‘Р°Рє РІРѕРґРё",
+	IGUI_ItemCat_MechWep = "РњРµС…Р°РЅС–РєР° - Р—Р±СЂРѕСЏ",
+	IGUI_ItemCat_Plush = "РџР»СЋС€РµРІС– С–РіСЂР°С€РєРё",
+	IGUI_ItemCat_SurHunt = "Р’РёР¶РёРІР°РЅРЅСЏ - РџРѕР»СЋРІР°РЅРЅСЏ",
+	IGUI_ItemCat_SurWater = "Р’РёР¶РёРІР°РЅРЅСЏ - Р’РѕРґР°",
+	IGUI_ItemCat_TWepM = "Р†РЅСЃС‚СЂСѓРјРµРЅС‚Рё/Р—Р±СЂРѕСЏ - Р‘Р»РёР¶РЅСЏ",
+	IGUI_ItemCat_TWepR = "Р†РЅСЃС‚СЂСѓРјРµРЅС‚Рё/Р—Р±СЂРѕСЏ - Р”Р°Р»РµРєРѕР±С–Р№РЅР°",
+	IGUI_ItemCat_Utility = "РљРѕСЂРёСЃРЅРµ"
 	
 		------------ManageContainers------------
 	
-	IGUI_Include = "Включити",
-	IGUI_Exclude = "Вилучити",
-	IGUI_Unassign = "Скасувати призначення",
+	IGUI_Include = "Р’РєР»СЋС‡РёС‚Рё",
+	IGUI_Exclude = "Р’РёР»СѓС‡РёС‚Рё",
+	IGUI_Unassign = "РЎРєР°СЃСѓРІР°С‚Рё РїСЂРёР·РЅР°С‡РµРЅРЅСЏ",
 	
 		------------MiniHealthPanel------------
 	
-	IGUI_MiniHealth_UpdateNotes = "<CENTRE> <SIZE:medium> Виправлення Mini Health Panel <LINE> <LINE> <LEFT> <SIZE:small> - Виправлено сині частини тіла, викликані аддоном Excrementum."
-	IGUI_MiniHealth_AlwaysVisible = "Завжди відібражати",
-	IGUI_MiniHealth_HealthBar = "Шкала здоров'я",
-	IGUI_MiniHealth_LockWindow = "Закріпити панель",
+	IGUI_MiniHealth_UpdateNotes = "<CENTRE> <SIZE:medium> Р’РёРїСЂР°РІР»РµРЅРЅСЏ Mini Health Panel <LINE> <LINE> <LEFT> <SIZE:small> - Р’РёРїСЂР°РІР»РµРЅРѕ СЃРёРЅС– С‡Р°СЃС‚РёРЅРё С‚С–Р»Р°, РІРёРєР»РёРєР°РЅС– Р°РґРґРѕРЅРѕРј Excrementum."
+	IGUI_MiniHealth_AlwaysVisible = "Р—Р°РІР¶РґРё РІС–РґС–Р±СЂР°Р¶Р°С‚Рё",
+	IGUI_MiniHealth_HealthBar = "РЁРєР°Р»Р° Р·РґРѕСЂРѕРІ'СЏ",
+	IGUI_MiniHealth_LockWindow = "Р—Р°РєСЂС–РїРёС‚Рё РїР°РЅРµР»СЊ",
 	
 		------------MoreDescriptionForTrait------------
 	
-	IGUI_SearchMode_Categories_FishBait = "Рибні наживки",
-    IGUI_SearchMode_Categories_ForestRarities = "Лісові рідкості",
-    IGUI_SearchMode_Categories_WildHerbs = "Дикі трави",
-    IGUI_SearchMode_Categories_DeadAnimals = "Мертві звірі",
+	IGUI_SearchMode_Categories_FishBait = "Р РёР±РЅС– РЅР°Р¶РёРІРєРё",
+    IGUI_SearchMode_Categories_ForestRarities = "Р›С–СЃРѕРІС– СЂС–РґРєРѕСЃС‚С–",
+    IGUI_SearchMode_Categories_WildHerbs = "Р”РёРєС– С‚СЂР°РІРё",
+    IGUI_SearchMode_Categories_DeadAnimals = "РњРµСЂС‚РІС– Р·РІС–СЂС–",
 	
 		------------Map Symbol Size Slider------------
 		
-	IGUI_Map_MapSymbolSize = "Розмір символу",
+	IGUI_Map_MapSymbolSize = "Р РѕР·РјС–СЂ СЃРёРјРІРѕР»Сѓ",
 		
-		------------(переклав Nyuel)Tactical Sheaths------------
+		------------(РїРµСЂРµРєР»Р°РІ Nyuel)Tactical Sheaths------------
 		
-	IGUI_HotbarAttachment_KnifeSheathLeg = "Піхви (Стегно)",
-	IGUI_HotbarAttachment_KnifeSheathBack = "Піхви (Спина)",
-	IGUI_HotbarAttachment_KatanaSheath = "Піхви (Катана)",
+	IGUI_HotbarAttachment_KnifeSheathLeg = "РџС–С…РІРё (РЎС‚РµРіРЅРѕ)",
+	IGUI_HotbarAttachment_KnifeSheathBack = "РџС–С…РІРё (РЎРїРёРЅР°)",
+	IGUI_HotbarAttachment_KatanaSheath = "РџС–С…РІРё (РљР°С‚Р°РЅР°)",
 	
-		------------(переклав Nyuel)Expanded Helicopter Events------------
+		------------(РїРµСЂРµРєР»Р°РІ Nyuel)Expanded Helicopter Events------------
 	
 	IGUI_VehicleNameUH60Green = "UH-60A",
-    IGUI_VehicleNameUH60GreenFuselage = "Розбитий UH-60A (Фюзеляж)",
-    IGUI_VehicleNameUH60GreenTail = "Розбитий UH-60A (Хвіст)",
+    IGUI_VehicleNameUH60GreenFuselage = "Р РѕР·Р±РёС‚РёР№ UH-60A (Р¤СЋР·РµР»СЏР¶)",
+    IGUI_VehicleNameUH60GreenTail = "Р РѕР·Р±РёС‚РёР№ UH-60A (РҐРІС–СЃС‚)",
 
     IGUI_VehicleNameUH60Desert = "UH-60A Desert",
-    IGUI_VehicleNameUH60DesertFuselage = "Розбитий UH-60A Desert (Фюзеляж)",
-    IGUI_VehicleNameUH60DesertTail = "Розбитий UH-60A Desert (Хвіст)",
+    IGUI_VehicleNameUH60DesertFuselage = "Р РѕР·Р±РёС‚РёР№ UH-60A Desert (Р¤СЋР·РµР»СЏР¶)",
+    IGUI_VehicleNameUH60DesertTail = "Р РѕР·Р±РёС‚РёР№ UH-60A Desert (РҐРІС–СЃС‚)",
 
     IGUI_VehicleNameUH60Medevac = "UH-60A Medevac",
-    IGUI_VehicleNameUH60MedevacFuselage = "Розбитий UH-60A Medevac (Фюзеляж)",
-    IGUI_VehicleNameUH60MedevacTail = "Розбитий UH-60A Medevac (Хвіст)",
+    IGUI_VehicleNameUH60MedevacFuselage = "Р РѕР·Р±РёС‚РёР№ UH-60A Medevac (Р¤СЋР·РµР»СЏР¶)",
+    IGUI_VehicleNameUH60MedevacTail = "Р РѕР·Р±РёС‚РёР№ UH-60A Medevac (РҐРІС–СЃС‚)",
 
-    IGUI_VehicleNameBell206LBMW = "Новинний Гелікоптер",    
-    IGUI_VehicleNameBell206LBMWFuselage = "Новинний Гелікоптер (Фюзеляж)",
-    IGUI_VehicleNameBell206LBMWTail = "Новинний Гелікоптер (Хвіст)",
+    IGUI_VehicleNameBell206LBMW = "РќРѕРІРёРЅРЅРёР№ Р“РµР»С–РєРѕРїС‚РµСЂ",    
+    IGUI_VehicleNameBell206LBMWFuselage = "РќРѕРІРёРЅРЅРёР№ Р“РµР»С–РєРѕРїС‚РµСЂ (Р¤СЋР·РµР»СЏР¶)",
+    IGUI_VehicleNameBell206LBMWTail = "РќРѕРІРёРЅРЅРёР№ Р“РµР»С–РєРѕРїС‚РµСЂ (РҐРІС–СЃС‚)",
 
-    IGUI_VehicleNameBell206Police = "Поліцейський Гелікоптер",
-    IGUI_VehicleNameBell206PoliceFuselage = "Поліцейський Гелікоптер (Фюзеляж)",
-    IGUI_VehicleNameBell206PoliceTail = "Поліцейський Гелікоптер (Хвіст)",
+    IGUI_VehicleNameBell206Police = "РџРѕР»С–С†РµР№СЃСЊРєРёР№ Р“РµР»С–РєРѕРїС‚РµСЂ",
+    IGUI_VehicleNameBell206PoliceFuselage = "РџРѕР»С–С†РµР№СЃСЊРєРёР№ Р“РµР»С–РєРѕРїС‚РµСЂ (Р¤СЋР·РµР»СЏР¶)",
+    IGUI_VehicleNameBell206PoliceTail = "РџРѕР»С–С†РµР№СЃСЊРєРёР№ Р“РµР»С–РєРѕРїС‚РµСЂ (РҐРІС–СЃС‚)",
 
-    IGUI_VehicleNameBell206Survivalist = "Цивільний Гелікоптер",
+    IGUI_VehicleNameBell206Survivalist = "Р¦РёРІС–Р»СЊРЅРёР№ Р“РµР»С–РєРѕРїС‚РµСЂ",
     
-    IGUI_VehicleNameFEMASupplyDrop = "Гуманітарна Допомога",
-    IGUI_VehicleNameSurvivorSupplyDrop = "Гуманітарна Допомога Благодійників",
+    IGUI_VehicleNameFEMASupplyDrop = "Р“СѓРјР°РЅС–С‚Р°СЂРЅР° Р”РѕРїРѕРјРѕРіР°",
+    IGUI_VehicleNameSurvivorSupplyDrop = "Р“СѓРјР°РЅС–С‚Р°СЂРЅР° Р”РѕРїРѕРјРѕРіР° Р‘Р»Р°РіРѕРґС–Р№РЅРёРєС–РІ",
 
-    IGUI_Spent = "Витрачений(на)",
-    IGUI_Lit = "Освітлений(на)",
+    IGUI_Spent = "Р’РёС‚СЂР°С‡РµРЅРёР№(РЅР°)",
+    IGUI_Lit = "РћСЃРІС–С‚Р»РµРЅРёР№(РЅР°)",
 	
-		------------(переклав Nyuel)Coavins Firearm Repair------------
+		------------(РїРµСЂРµРєР»Р°РІ Nyuel)Coavins Firearm Repair------------
 	
-	IGUI_ItemCat_FirearmPart = "Компоненти Вогнепальної Зброї",
+	IGUI_ItemCat_FirearmPart = "РљРѕРјРїРѕРЅРµРЅС‚Рё Р’РѕРіРЅРµРїР°Р»СЊРЅРѕС— Р—Р±СЂРѕС—",
 	
-		------------(переклав Nyuel)82 Jeep J10 with Mellow Yellow truck------------
+		------------(РїРµСЂРµРєР»Р°РІ Nyuel)82 Jeep J10 with Mellow Yellow truck------------
 		
 	IGUI_VehicleName82jeepJ10 = "'82 Jeep J10"
 	IGUI_VehicleName82jeepJ10t = "'82 Jeep J10 Mellow Yellow"
 
-	IGUI_VehiclePartJP82Dorothy = "Дороті",
-	IGUI_VehiclePartJP82Windy = "Анемометр",
+	IGUI_VehiclePartJP82Dorothy = "Р”РѕСЂРѕС‚С–",
+	IGUI_VehiclePartJP82Windy = "РђРЅРµРјРѕРјРµС‚СЂ",
 
-	IGUI_VehiclePartJP82Rollbar = "Захисна решітка",
-	IGUI_VehiclePartJP82Roofrack = "Багажник на даху",
-	IGUI_VehiclePartJP82BedCover = "Обшивка",
-	IGUI_VehiclePartJP82TrunkDoorTop = "Верхня частина дверей багажника",
-	IGUI_VehiclePartJP82Trunk = "Багажник",
-	IGUI_VehiclePartJP82Trunkt = "Сховище в кузові",
+	IGUI_VehiclePartJP82Rollbar = "Р—Р°С…РёСЃРЅР° СЂРµС€С–С‚РєР°",
+	IGUI_VehiclePartJP82Roofrack = "Р‘Р°РіР°Р¶РЅРёРє РЅР° РґР°С…Сѓ",
+	IGUI_VehiclePartJP82BedCover = "РћР±С€РёРІРєР°",
+	IGUI_VehiclePartJP82TrunkDoorTop = "Р’РµСЂС…РЅСЏ С‡Р°СЃС‚РёРЅР° РґРІРµСЂРµР№ Р±Р°РіР°Р¶РЅРёРєР°",
+	IGUI_VehiclePartJP82Trunk = "Р‘Р°РіР°Р¶РЅРёРє",
+	IGUI_VehiclePartJP82Trunkt = "РЎС…РѕРІРёС‰Рµ РІ РєСѓР·РѕРІС–",
 
-	IGUI_VehiclePartJP82FrontBumper = "Передній бампер",
-	IGUI_VehiclePartJP82RearBumper = "Задній бампер",
+	IGUI_VehiclePartJP82FrontBumper = "РџРµСЂРµРґРЅС–Р№ Р±Р°РјРїРµСЂ",
+	IGUI_VehiclePartJP82RearBumper = "Р—Р°РґРЅС–Р№ Р±Р°РјРїРµСЂ",
 
-	IGUI_VehiclePartJP82SpareTireRear = "Запасне заднє колесо",
-	IGUI_VehiclePartJP82SpareTireRoof = "Запасне колесо на даху",
+	IGUI_VehiclePartJP82SpareTireRear = "Р—Р°РїР°СЃРЅРµ Р·Р°РґРЅС” РєРѕР»РµСЃРѕ",
+	IGUI_VehiclePartJP82SpareTireRoof = "Р—Р°РїР°СЃРЅРµ РєРѕР»РµСЃРѕ РЅР° РґР°С…Сѓ",
 
-	IGUI_VehiclePartJP82WindshieldArmor = "Захист для лобового скла",
-	IGUI_VehiclePartJP82WindowFrontLeftArmor = "Захист для лівого переднього скла",
-	IGUI_VehiclePartJP82WindowFrontRightArmor = "Захист для правого переднього скла",
+	IGUI_VehiclePartJP82WindshieldArmor = "Р—Р°С…РёСЃС‚ РґР»СЏ Р»РѕР±РѕРІРѕРіРѕ СЃРєР»Р°",
+	IGUI_VehiclePartJP82WindowFrontLeftArmor = "Р—Р°С…РёСЃС‚ РґР»СЏ Р»С–РІРѕРіРѕ РїРµСЂРµРґРЅСЊРѕРіРѕ СЃРєР»Р°",
+	IGUI_VehiclePartJP82WindowFrontRightArmor = "Р—Р°С…РёСЃС‚ РґР»СЏ РїСЂР°РІРѕРіРѕ РїРµСЂРµРґРЅСЊРѕРіРѕ СЃРєР»Р°",
 	
-		------------(переклав Nyuel)83 AM General M923------------
+		------------(РїРµСЂРµРєР»Р°РІ Nyuel)83 AM General M923------------
 		
 	IGUI_VehicleName83amgeneralM923 = "'83 AM General M923 Hillbilly",
 	IGUI_VehicleName83amgeneralM923Burnt = "'83 AM General M923 Burnt",
 
-	IGUI_VehiclePartM923SpareTire = "Запасне колесо",
-	IGUI_VehiclePartM923SpareMount = "Кріплення запасного колеса",
-	IGUI_VehiclePartM923Stakes = "Бортова огорожа для платформи",
-	IGUI_VehiclePartM923DoorLeftArmor = "Захист для передньої лівої двері",
-	IGUI_VehiclePartM923DoorRightArmor = "Захист для передньої правої двері",
-	IGUI_VehiclePartM923WindshieldArmor = "Захист для лобового скла",
-	IGUI_VehiclePartM923Bumper = "Бампер",
-	IGUI_VehiclePartM923Trunk = "Сховище на платформі",	
-	IGUI_VehiclePartM923Storage = "Бокове сховище",
-	IGUI_VehiclePartM923StorageDoor = "Кришка бокового сховища",
-	IGUI_VehiclePartM923Mudflaps = "Бризковики",
-	IGUI_VehiclePartM923CabCovers = "Накриття кабіни",
-	IGUI_VehiclePartM923GuntruckArmor = "Захист для крупнокаліберного кулемета",
+	IGUI_VehiclePartM923SpareTire = "Р—Р°РїР°СЃРЅРµ РєРѕР»РµСЃРѕ",
+	IGUI_VehiclePartM923SpareMount = "РљСЂС–РїР»РµРЅРЅСЏ Р·Р°РїР°СЃРЅРѕРіРѕ РєРѕР»РµСЃР°",
+	IGUI_VehiclePartM923Stakes = "Р‘РѕСЂС‚РѕРІР° РѕРіРѕСЂРѕР¶Р° РґР»СЏ РїР»Р°С‚С„РѕСЂРјРё",
+	IGUI_VehiclePartM923DoorLeftArmor = "Р—Р°С…РёСЃС‚ РґР»СЏ РїРµСЂРµРґРЅСЊРѕС— Р»С–РІРѕС— РґРІРµСЂС–",
+	IGUI_VehiclePartM923DoorRightArmor = "Р—Р°С…РёСЃС‚ РґР»СЏ РїРµСЂРµРґРЅСЊРѕС— РїСЂР°РІРѕС— РґРІРµСЂС–",
+	IGUI_VehiclePartM923WindshieldArmor = "Р—Р°С…РёСЃС‚ РґР»СЏ Р»РѕР±РѕРІРѕРіРѕ СЃРєР»Р°",
+	IGUI_VehiclePartM923Bumper = "Р‘Р°РјРїРµСЂ",
+	IGUI_VehiclePartM923Trunk = "РЎС…РѕРІРёС‰Рµ РЅР° РїР»Р°С‚С„РѕСЂРјС–",	
+	IGUI_VehiclePartM923Storage = "Р‘РѕРєРѕРІРµ СЃС…РѕРІРёС‰Рµ",
+	IGUI_VehiclePartM923StorageDoor = "РљСЂРёС€РєР° Р±РѕРєРѕРІРѕРіРѕ СЃС…РѕРІРёС‰Р°",
+	IGUI_VehiclePartM923Mudflaps = "Р‘СЂРёР·РєРѕРІРёРєРё",
+	IGUI_VehiclePartM923CabCovers = "РќР°РєСЂРёС‚С‚СЏ РєР°Р±С–РЅРё",
+	IGUI_VehiclePartM923GuntruckArmor = "Р—Р°С…РёСЃС‚ РґР»СЏ РєСЂСѓРїРЅРѕРєР°Р»С–Р±РµСЂРЅРѕРіРѕ РєСѓР»РµРјРµС‚Р°",
 	
-		------------(переклав Nyuel)86 Oshkosh P19A + Military Trailers------------
+		------------(РїРµСЂРµРєР»Р°РІ Nyuel)86 Oshkosh P19A + Military Trailers------------
 	
 	IGUI_VehicleName86oshkoshUSMC = "'86 Oshkosh P19A USMC"
 	IGUI_VehicleName86oshkoshKYFD = "'86 Oshkosh P19A KYFD"
 	IGUI_VehicleName86oshkoshFRTR55 = "P19A FRTR55"
 	IGUI_VehicleName86oshkoshP19ABurnt = "Burnt Oshkosh P19A"
 
-	IGUI_VehicleNameTrailerM1082 = "Причіп M1082"
-	IGUI_VehicleNameTrailerM1082tarp = "Причіп з тентом M1082"
-	IGUI_VehicleNameTrailerM1095 = "Причіп M1095"
-	IGUI_VehicleNameTrailerM1095tarp = "Причіп з тентом M1095"
+	IGUI_VehicleNameTrailerM1082 = "РџСЂРёС‡С–Рї M1082"
+	IGUI_VehicleNameTrailerM1082tarp = "РџСЂРёС‡С–Рї Р· С‚РµРЅС‚РѕРј M1082"
+	IGUI_VehicleNameTrailerM1095 = "РџСЂРёС‡С–Рї M1095"
+	IGUI_VehicleNameTrailerM1095tarp = "РџСЂРёС‡С–Рї Р· С‚РµРЅС‚РѕРј M1095"
 
-	IGUI_VehiclePartCatP19Arighttrunk = "Правий багажник",
-	IGUI_VehiclePartCatP19Alefttrunk = "Лівий багажник",
+	IGUI_VehiclePartCatP19Arighttrunk = "РџСЂР°РІРёР№ Р±Р°РіР°Р¶РЅРёРє",
+	IGUI_VehiclePartCatP19Alefttrunk = "Р›С–РІРёР№ Р±Р°РіР°Р¶РЅРёРє",
 
-	IGUI_VehiclePartP19ABigTrunkCompartment0 = "Великий верхній відсік",
-	IGUI_VehiclePartP19ASmallTrunkCompartment1 = "Невеликий лівий відсік",
-	IGUI_VehiclePartP19ASmallTrunkCompartment2 = "Невеликий середній відсік",
-	IGUI_VehiclePartP19ASmallTrunkCompartment3 = "Невеликий правий відсік",
+	IGUI_VehiclePartP19ABigTrunkCompartment0 = "Р’РµР»РёРєРёР№ РІРµСЂС…РЅС–Р№ РІС–РґСЃС–Рє",
+	IGUI_VehiclePartP19ASmallTrunkCompartment1 = "РќРµРІРµР»РёРєРёР№ Р»С–РІРёР№ РІС–РґСЃС–Рє",
+	IGUI_VehiclePartP19ASmallTrunkCompartment2 = "РќРµРІРµР»РёРєРёР№ СЃРµСЂРµРґРЅС–Р№ РІС–РґСЃС–Рє",
+	IGUI_VehiclePartP19ASmallTrunkCompartment3 = "РќРµРІРµР»РёРєРёР№ РїСЂР°РІРёР№ РІС–РґСЃС–Рє",
 
-	IGUI_VehiclePartP19ABigTrunkCompartment0b = "Великий верхній відсік",
-	IGUI_VehiclePartP19ASmallTrunkCompartment1b = "Невеликий лівий відсік",
-	IGUI_VehiclePartP19ASmallTrunkCompartment3b = "Невеликий правий відсік",
+	IGUI_VehiclePartP19ABigTrunkCompartment0b = "Р’РµР»РёРєРёР№ РІРµСЂС…РЅС–Р№ РІС–РґСЃС–Рє",
+	IGUI_VehiclePartP19ASmallTrunkCompartment1b = "РќРµРІРµР»РёРєРёР№ Р»С–РІРёР№ РІС–РґСЃС–Рє",
+	IGUI_VehiclePartP19ASmallTrunkCompartment3b = "РќРµРІРµР»РёРєРёР№ РїСЂР°РІРёР№ РІС–РґСЃС–Рє",
 
-	IGUI_VehiclePartP19Ahatch = "Даховий люк",
-	IGUI_VehiclePartP19ARoofrack = "Даховий багажник",
-	IGUI_VehiclePartTrunkDoor2 = "Друга кришка багажника",
+	IGUI_VehiclePartP19Ahatch = "Р”Р°С…РѕРІРёР№ Р»СЋРє",
+	IGUI_VehiclePartP19ARoofrack = "Р”Р°С…РѕРІРёР№ Р±Р°РіР°Р¶РЅРёРє",
+	IGUI_VehiclePartTrunkDoor2 = "Р”СЂСѓРіР° РєСЂРёС€РєР° Р±Р°РіР°Р¶РЅРёРєР°",
 
-	IGUI_VehiclePartP19AFenderLeft = "Ліве заднє крило",
-	IGUI_VehiclePartP19AFenderRight = "Праве заднє крило",
+	IGUI_VehiclePartP19AFenderLeft = "Р›С–РІРµ Р·Р°РґРЅС” РєСЂРёР»Рѕ",
+	IGUI_VehiclePartP19AFenderRight = "РџСЂР°РІРµ Р·Р°РґРЅС” РєСЂРёР»Рѕ",
 
-	IGUI_VehiclePartP19ASpareMountLeft = "Заднє кріплення запасного колеса",
-	IGUI_VehiclePartP19ASpareMountRear = "Дахове кріплення запасного колеса ",
+	IGUI_VehiclePartP19ASpareMountLeft = "Р—Р°РґРЅС” РєСЂС–РїР»РµРЅРЅСЏ Р·Р°РїР°СЃРЅРѕРіРѕ РєРѕР»РµСЃР°",
+	IGUI_VehiclePartP19ASpareMountRear = "Р”Р°С…РѕРІРµ РєСЂС–РїР»РµРЅРЅСЏ Р·Р°РїР°СЃРЅРѕРіРѕ РєРѕР»РµСЃР° ",
 
-	IGUI_VehiclePartP19ASpareTireLeft = "Заднє запасне колесо",
-	IGUI_VehiclePartP19ASpareTireRear = "Дахове запасне колесо",
+	IGUI_VehiclePartP19ASpareTireLeft = "Р—Р°РґРЅС” Р·Р°РїР°СЃРЅРµ РєРѕР»РµСЃРѕ",
+	IGUI_VehiclePartP19ASpareTireRear = "Р”Р°С…РѕРІРµ Р·Р°РїР°СЃРЅРµ РєРѕР»РµСЃРѕ",
 
-	IGUI_VehiclePartP19AWindshieldArmor = "Захист лобового скла",
-	IGUI_VehiclePartP19ADoorFrontLeftArmor = "Захист лівої передньої двері",
-	IGUI_VehiclePartP19ADoorFrontRightArmor = "Захист правої передньої двері",
+	IGUI_VehiclePartP19AWindshieldArmor = "Р—Р°С…РёСЃС‚ Р»РѕР±РѕРІРѕРіРѕ СЃРєР»Р°",
+	IGUI_VehiclePartP19ADoorFrontLeftArmor = "Р—Р°С…РёСЃС‚ Р»С–РІРѕС— РїРµСЂРµРґРЅСЊРѕС— РґРІРµСЂС–",
+	IGUI_VehiclePartP19ADoorFrontRightArmor = "Р—Р°С…РёСЃС‚ РїСЂР°РІРѕС— РїРµСЂРµРґРЅСЊРѕС— РґРІРµСЂС–",
 	
-		------------(переклав Nyuel)89 Ford Bronco------------
+		------------(РїРµСЂРµРєР»Р°РІ Nyuel)89 Ford Bronco------------
 		
 	IGUI_VehicleName89fordBronco = "'89 Ford Bronco"
 
-	IGUI_VehiclePartBR89Rollbar = "Захисна решітка",
-	IGUI_VehiclePartBR89Roofrack = "Багажник на даху",
-	IGUI_VehiclePartBR89BedCover = "Кришка багажного відділення",
-	IGUI_VehiclePartBR89Barrier = "Бар'єр для багажника",
-	IGUI_VehiclePartBR89Trunk = "Багажник",
+	IGUI_VehiclePartBR89Rollbar = "Р—Р°С…РёСЃРЅР° СЂРµС€С–С‚РєР°",
+	IGUI_VehiclePartBR89Roofrack = "Р‘Р°РіР°Р¶РЅРёРє РЅР° РґР°С…Сѓ",
+	IGUI_VehiclePartBR89BedCover = "РљСЂРёС€РєР° Р±Р°РіР°Р¶РЅРѕРіРѕ РІС–РґРґС–Р»РµРЅРЅСЏ",
+	IGUI_VehiclePartBR89Barrier = "Р‘Р°СЂ'С”СЂ РґР»СЏ Р±Р°РіР°Р¶РЅРёРєР°",
+	IGUI_VehiclePartBR89Trunk = "Р‘Р°РіР°Р¶РЅРёРє",
 
-	IGUI_VehiclePartBR89FrontBumper = "Передній бампер",
-	IGUI_VehiclePartBR89RearBumper = "Задній бампер",
+	IGUI_VehiclePartBR89FrontBumper = "РџРµСЂРµРґРЅС–Р№ Р±Р°РјРїРµСЂ",
+	IGUI_VehiclePartBR89RearBumper = "Р—Р°РґРЅС–Р№ Р±Р°РјРїРµСЂ",
 
-	IGUI_VehiclePartBR89SpareTireRoof = "Запасне колесо на даху",
-	IGUI_VehiclePartBR89SpareTireRear = "Запасне заднє колесо",
+	IGUI_VehiclePartBR89SpareTireRoof = "Р—Р°РїР°СЃРЅРµ РєРѕР»РµСЃРѕ РЅР° РґР°С…Сѓ",
+	IGUI_VehiclePartBR89SpareTireRear = "Р—Р°РїР°СЃРЅРµ Р·Р°РґРЅС” РєРѕР»РµСЃРѕ",
 
-	IGUI_VehiclePartBR89WindshieldArmor = "Захист лобового скла",
-	IGUI_VehiclePartBR89WindowFrontLeftArmor = "Захист для лівого переднього скла",
-	IGUI_VehiclePartBR89WindowFrontRightArmor = "Захист для правого переднього скла",
-	IGUI_VehiclePartBR89WindowRearLeftArmor = "Захист для лівого заднього скла",
-	IGUI_VehiclePartBR89WindowRearRightArmor = "Захист для правого заднього скла",
+	IGUI_VehiclePartBR89WindshieldArmor = "Р—Р°С…РёСЃС‚ Р»РѕР±РѕРІРѕРіРѕ СЃРєР»Р°",
+	IGUI_VehiclePartBR89WindowFrontLeftArmor = "Р—Р°С…РёСЃС‚ РґР»СЏ Р»С–РІРѕРіРѕ РїРµСЂРµРґРЅСЊРѕРіРѕ СЃРєР»Р°",
+	IGUI_VehiclePartBR89WindowFrontRightArmor = "Р—Р°С…РёСЃС‚ РґР»СЏ РїСЂР°РІРѕРіРѕ РїРµСЂРµРґРЅСЊРѕРіРѕ СЃРєР»Р°",
+	IGUI_VehiclePartBR89WindowRearLeftArmor = "Р—Р°С…РёСЃС‚ РґР»СЏ Р»С–РІРѕРіРѕ Р·Р°РґРЅСЊРѕРіРѕ СЃРєР»Р°",
+	IGUI_VehiclePartBR89WindowRearRightArmor = "Р—Р°С…РёСЃС‚ РґР»СЏ РїСЂР°РІРѕРіРѕ Р·Р°РґРЅСЊРѕРіРѕ СЃРєР»Р°",
 	
-		------------(переклав Nyuel)91 RANGE ROVER Classic------------
+		------------(РїРµСЂРµРєР»Р°РІ Nyuel)91 RANGE ROVER Classic------------
 	
-	IGUI_VehicleName91range = "'91 RANGE ROVER 4-дверний",
-	IGUI_VehicleName91range2 = "'91 RANGE ROVER 2-дверний",
+	IGUI_VehicleName91range = "'91 RANGE ROVER 4-РґРІРµСЂРЅРёР№",
+	IGUI_VehicleName91range2 = "'91 RANGE ROVER 2-РґРІРµСЂРЅРёР№",
 	
-		------------(переклав Nyuel)92 AM General M998 + M101A3 Cargo trailer------------
+		------------(РїРµСЂРµРєР»Р°РІ Nyuel)92 AM General M998 + M101A3 Cargo trailer------------
 	
 	IGUI_VehicleName92amgeneralM998 = "'92 AM General M998 HMMWV",
 	IGUI_VehicleName92amgeneralM998Burnt = "'92 AM General M998 HMMWV Burnt",
 
-	IGUI_VehiclePartM998Trunk = "Сховище в багажнику",
-	IGUI_VehiclePartM998BackCover = "Кришка задньої частини",
-	IGUI_VehiclePartM998SpareTire = "Запасне колесо",
-	IGUI_VehiclePartM998Mudflaps = "Бризкозахисні крила",
-	IGUI_VehiclePartM998Bullbar = "Бикова захисна рама",
-	IGUI_VehiclePartM998Muffler = "Глушник",
-	IGUI_VehiclePartM998TrunkBarrier = "Бар'єр багажного відділення",
-	IGUI_VehiclePartM998DoorFrontLeftArmor = "Захист передньої лівої двері",
-	IGUI_VehiclePartM998DoorFrontRightArmor = "Захист передньої правої двері",
-	IGUI_VehiclePartM998DoorRearLeftArmor = "Захист задньої лівої двері",
-	IGUI_VehiclePartM998DoorRearRightArmor = "Захист задньої правої двері",
-	IGUI_VehiclePartM998WindshieldArmor = "Захист лобового скла",
-	IGUI_VehiclePartM998Roofrack = "Сховище на даху",
+	IGUI_VehiclePartM998Trunk = "РЎС…РѕРІРёС‰Рµ РІ Р±Р°РіР°Р¶РЅРёРєСѓ",
+	IGUI_VehiclePartM998BackCover = "РљСЂРёС€РєР° Р·Р°РґРЅСЊРѕС— С‡Р°СЃС‚РёРЅРё",
+	IGUI_VehiclePartM998SpareTire = "Р—Р°РїР°СЃРЅРµ РєРѕР»РµСЃРѕ",
+	IGUI_VehiclePartM998Mudflaps = "Р‘СЂРёР·РєРѕР·Р°С…РёСЃРЅС– РєСЂРёР»Р°",
+	IGUI_VehiclePartM998Bullbar = "Р‘РёРєРѕРІР° Р·Р°С…РёСЃРЅР° СЂР°РјР°",
+	IGUI_VehiclePartM998Muffler = "Р“Р»СѓС€РЅРёРє",
+	IGUI_VehiclePartM998TrunkBarrier = "Р‘Р°СЂ'С”СЂ Р±Р°РіР°Р¶РЅРѕРіРѕ РІС–РґРґС–Р»РµРЅРЅСЏ",
+	IGUI_VehiclePartM998DoorFrontLeftArmor = "Р—Р°С…РёСЃС‚ РїРµСЂРµРґРЅСЊРѕС— Р»С–РІРѕС— РґРІРµСЂС–",
+	IGUI_VehiclePartM998DoorFrontRightArmor = "Р—Р°С…РёСЃС‚ РїРµСЂРµРґРЅСЊРѕС— РїСЂР°РІРѕС— РґРІРµСЂС–",
+	IGUI_VehiclePartM998DoorRearLeftArmor = "Р—Р°С…РёСЃС‚ Р·Р°РґРЅСЊРѕС— Р»С–РІРѕС— РґРІРµСЂС–",
+	IGUI_VehiclePartM998DoorRearRightArmor = "Р—Р°С…РёСЃС‚ Р·Р°РґРЅСЊРѕС— РїСЂР°РІРѕС— РґРІРµСЂС–",
+	IGUI_VehiclePartM998WindshieldArmor = "Р—Р°С…РёСЃС‚ Р»РѕР±РѕРІРѕРіРѕ СЃРєР»Р°",
+	IGUI_VehiclePartM998Roofrack = "РЎС…РѕРІРёС‰Рµ РЅР° РґР°С…Сѓ",
 
-	IGUI_VehicleNameTrailerM101A3cargo = "'92 M101A3 Вантажний Причіп",
+	IGUI_VehicleNameTrailerM101A3cargo = "'92 M101A3 Р’Р°РЅС‚Р°Р¶РЅРёР№ РџСЂРёС‡С–Рї",
 
-	IGUI_VehiclePartTrunkDoorTwo = "Верхня кришка багажника",
-	IGUI_VehiclePartM101A3Cover = "Жорсткий ковпак для причепа",
-	IGUI_VehiclePartM101A3Tarp = "Наметове накриття для причепа",
-	IGUI_VehiclePartM101A3Spare = "Переднє запасне колесо",
-	IGUI_VehiclePartM101A3Trunk = "Сховище на причіпі",
+	IGUI_VehiclePartTrunkDoorTwo = "Р’РµСЂС…РЅСЏ РєСЂРёС€РєР° Р±Р°РіР°Р¶РЅРёРєР°",
+	IGUI_VehiclePartM101A3Cover = "Р–РѕСЂСЃС‚РєРёР№ РєРѕРІРїР°Рє РґР»СЏ РїСЂРёС‡РµРїР°",
+	IGUI_VehiclePartM101A3Tarp = "РќР°РјРµС‚РѕРІРµ РЅР°РєСЂРёС‚С‚СЏ РґР»СЏ РїСЂРёС‡РµРїР°",
+	IGUI_VehiclePartM101A3Spare = "РџРµСЂРµРґРЅС” Р·Р°РїР°СЃРЅРµ РєРѕР»РµСЃРѕ",
+	IGUI_VehiclePartM101A3Trunk = "РЎС…РѕРІРёС‰Рµ РЅР° РїСЂРёС‡С–РїС–",
 	
-		------------(переклав Nyuel)Alternative Inventory Rendering------------
+		------------(РїРµСЂРµРєР»Р°РІ Nyuel)Alternative Inventory Rendering------------
 	
-	IGUI_CUI_Display_UpdateRate = "Швидкість оновлення інвентарю",
-    IGUI_CUI_Display_MaxItemPerGroup = "Максимальна кількість елементів на групу предметів",
-    IGUI_CUI_Display_OpacityPresets = "Пресет прозорості інвентарю",
-    IGUI_CUI_Display_BookMarkStyle = "Стиль іконки закладки",
-    IGUI_CUI_Display_EquipStyle = "Стиль іконки екіпіровки",
-    IGUI_CUI_Display_ControllerHighlight = "Стиль підсвічування вибраного контролера",
-    IGUI_CUI_Display_BookTrack = "Позначити книги з вищим рівнем вмінь(WIP)",
+	IGUI_CUI_Display_UpdateRate = "РЁРІРёРґРєС–СЃС‚СЊ РѕРЅРѕРІР»РµРЅРЅСЏ С–РЅРІРµРЅС‚Р°СЂСЋ",
+    IGUI_CUI_Display_MaxItemPerGroup = "РњР°РєСЃРёРјР°Р»СЊРЅР° РєС–Р»СЊРєС–СЃС‚СЊ РµР»РµРјРµРЅС‚С–РІ РЅР° РіСЂСѓРїСѓ РїСЂРµРґРјРµС‚С–РІ",
+    IGUI_CUI_Display_OpacityPresets = "РџСЂРµСЃРµС‚ РїСЂРѕР·РѕСЂРѕСЃС‚С– С–РЅРІРµРЅС‚Р°СЂСЋ",
+    IGUI_CUI_Display_BookMarkStyle = "РЎС‚РёР»СЊ С–РєРѕРЅРєРё Р·Р°РєР»Р°РґРєРё",
+    IGUI_CUI_Display_EquipStyle = "РЎС‚РёР»СЊ С–РєРѕРЅРєРё РµРєС–РїС–СЂРѕРІРєРё",
+    IGUI_CUI_Display_ControllerHighlight = "РЎС‚РёР»СЊ РїС–РґСЃРІС–С‡СѓРІР°РЅРЅСЏ РІРёР±СЂР°РЅРѕРіРѕ РєРѕРЅС‚СЂРѕР»РµСЂР°",
+    IGUI_CUI_Display_BookTrack = "РџРѕР·РЅР°С‡РёС‚Рё РєРЅРёРіРё Р· РІРёС‰РёРј СЂС–РІРЅРµРј РІРјС–РЅСЊ(WIP)",
 
-    IGUI_CUI_Display_EnableDrainableDetail = "Показати детальний статус вичерпування ресурсів",
-    IGUI_CUI_Display_EnableShowModdedGun = "Показати модифіковану зброю",
-    IGUI_CUI_Display_EnableDetailedAttachments = "Показувати додатки в розгорнутій секції",
-    IGUI_CUI_Display_EnableMagazineDetail = "Показати детальний статус магазину",
+    IGUI_CUI_Display_EnableDrainableDetail = "РџРѕРєР°Р·Р°С‚Рё РґРµС‚Р°Р»СЊРЅРёР№ СЃС‚Р°С‚СѓСЃ РІРёС‡РµСЂРїСѓРІР°РЅРЅСЏ СЂРµСЃСѓСЂСЃС–РІ",
+    IGUI_CUI_Display_EnableShowModdedGun = "РџРѕРєР°Р·Р°С‚Рё РјРѕРґРёС„С–РєРѕРІР°РЅСѓ Р·Р±СЂРѕСЋ",
+    IGUI_CUI_Display_EnableDetailedAttachments = "РџРѕРєР°Р·СѓРІР°С‚Рё РґРѕРґР°С‚РєРё РІ СЂРѕР·РіРѕСЂРЅСѓС‚С–Р№ СЃРµРєС†С–С—",
+    IGUI_CUI_Display_EnableMagazineDetail = "РџРѕРєР°Р·Р°С‚Рё РґРµС‚Р°Р»СЊРЅРёР№ СЃС‚Р°С‚СѓСЃ РјР°РіР°Р·РёРЅСѓ",
     
-    IGUI_CUI_Display_EnableShowModdedGun = "Показати модифіковану зброю",
-    IGUI_CUI_Display_EnableTrackLitItems = "Відстеження книг та медіафайлів",
-    IGUI_CUI_Display_EnableTrackMediaItems = "Відстежування переглянутої медіаінформації",
-    IGUI_CUI_Display_EnableBadCondHighlight = "Виділити зброю у поганому стані",
-    IGUI_CUI_Display_EnableEquipmentLine = "Увімкнути роздільник обладнання",
-    IGUI_CUI_Display_EnablePinItem = "Показати закріплений предмет (WIP)",
+    IGUI_CUI_Display_EnableShowModdedGun = "РџРѕРєР°Р·Р°С‚Рё РјРѕРґРёС„С–РєРѕРІР°РЅСѓ Р·Р±СЂРѕСЋ",
+    IGUI_CUI_Display_EnableTrackLitItems = "Р’С–РґСЃС‚РµР¶РµРЅРЅСЏ РєРЅРёРі С‚Р° РјРµРґС–Р°С„Р°Р№Р»С–РІ",
+    IGUI_CUI_Display_EnableTrackMediaItems = "Р’С–РґСЃС‚РµР¶СѓРІР°РЅРЅСЏ РїРµСЂРµРіР»СЏРЅСѓС‚РѕС— РјРµРґС–Р°С–РЅС„РѕСЂРјР°С†С–С—",
+    IGUI_CUI_Display_EnableBadCondHighlight = "Р’РёРґС–Р»РёС‚Рё Р·Р±СЂРѕСЋ Сѓ РїРѕРіР°РЅРѕРјСѓ СЃС‚Р°РЅС–",
+    IGUI_CUI_Display_EnableEquipmentLine = "РЈРІС–РјРєРЅСѓС‚Рё СЂРѕР·РґС–Р»СЊРЅРёРє РѕР±Р»Р°РґРЅР°РЅРЅСЏ",
+    IGUI_CUI_Display_EnablePinItem = "РџРѕРєР°Р·Р°С‚Рё Р·Р°РєСЂС–РїР»РµРЅРёР№ РїСЂРµРґРјРµС‚ (WIP)",
     IGUI_CUI_Display_EnableFilledMagazine = "",
-    IGUI_CUI_Display_ItemDataUpdateRate = "Швидкість оновлення даних предметів",
-    IGUI_CUI_Display_InventoryUpdateRate = "Швидкість оновлення інвентарю",
-    IGUI_CUI_Display_EnableDelayedItemDataUpdate = "Увімкнути відкладене оновлення даних предметів",
-    IGUI_CUI_Display_EnableDelayedInventoryUpdate = "Увімкнути відкладене оновлення даних інвентарю",
-    IGUI_CUI_Display_ExperimentalTableWipe = "Експериментальне стирання таблиці",
+    IGUI_CUI_Display_ItemDataUpdateRate = "РЁРІРёРґРєС–СЃС‚СЊ РѕРЅРѕРІР»РµРЅРЅСЏ РґР°РЅРёС… РїСЂРµРґРјРµС‚С–РІ",
+    IGUI_CUI_Display_InventoryUpdateRate = "РЁРІРёРґРєС–СЃС‚СЊ РѕРЅРѕРІР»РµРЅРЅСЏ С–РЅРІРµРЅС‚Р°СЂСЋ",
+    IGUI_CUI_Display_EnableDelayedItemDataUpdate = "РЈРІС–РјРєРЅСѓС‚Рё РІС–РґРєР»Р°РґРµРЅРµ РѕРЅРѕРІР»РµРЅРЅСЏ РґР°РЅРёС… РїСЂРµРґРјРµС‚С–РІ",
+    IGUI_CUI_Display_EnableDelayedInventoryUpdate = "РЈРІС–РјРєРЅСѓС‚Рё РІС–РґРєР»Р°РґРµРЅРµ РѕРЅРѕРІР»РµРЅРЅСЏ РґР°РЅРёС… С–РЅРІРµРЅС‚Р°СЂСЋ",
+    IGUI_CUI_Display_ExperimentalTableWipe = "Р•РєСЃРїРµСЂРёРјРµРЅС‚Р°Р»СЊРЅРµ СЃС‚РёСЂР°РЅРЅСЏ С‚Р°Р±Р»РёС†С–",
 
-    IGUI_CUI_Display_EnableTrackDuplicates = "Функція відстеження дублікатів предметів",
-    IGUI_CUI_Display_EnableTrackDuplicateLiteratures = "Відстеження дублікатів літератури",
-    IGUI_CUI_Display_EnableTrackDuplicateWeapons = "Відстеження дублікатів зброї",
-    IGUI_CUI_Display_EnableTrackDuplicateWeaponsComparison = "Порівняння стану зброї",
-    IGUI_CUI_Display_EnableTrackDuplicateClothings = "Відстеження дублікатів одягу",
-    IGUI_CUI_Display_EnableTrackDuplicateFoods = "Відстеження дублікатів їжі",
-    IGUI_CUI_Display_EnableTrackDuplicateItems = "Відстеження дублікатів Generic Items"
+    IGUI_CUI_Display_EnableTrackDuplicates = "Р¤СѓРЅРєС†С–СЏ РІС–РґСЃС‚РµР¶РµРЅРЅСЏ РґСѓР±Р»С–РєР°С‚С–РІ РїСЂРµРґРјРµС‚С–РІ",
+    IGUI_CUI_Display_EnableTrackDuplicateLiteratures = "Р’С–РґСЃС‚РµР¶РµРЅРЅСЏ РґСѓР±Р»С–РєР°С‚С–РІ Р»С–С‚РµСЂР°С‚СѓСЂРё",
+    IGUI_CUI_Display_EnableTrackDuplicateWeapons = "Р’С–РґСЃС‚РµР¶РµРЅРЅСЏ РґСѓР±Р»С–РєР°С‚С–РІ Р·Р±СЂРѕС—",
+    IGUI_CUI_Display_EnableTrackDuplicateWeaponsComparison = "РџРѕСЂС–РІРЅСЏРЅРЅСЏ СЃС‚Р°РЅСѓ Р·Р±СЂРѕС—",
+    IGUI_CUI_Display_EnableTrackDuplicateClothings = "Р’С–РґСЃС‚РµР¶РµРЅРЅСЏ РґСѓР±Р»С–РєР°С‚С–РІ РѕРґСЏРіСѓ",
+    IGUI_CUI_Display_EnableTrackDuplicateFoods = "Р’С–РґСЃС‚РµР¶РµРЅРЅСЏ РґСѓР±Р»С–РєР°С‚С–РІ С—Р¶С–",
+    IGUI_CUI_Display_EnableTrackDuplicateItems = "Р’С–РґСЃС‚РµР¶РµРЅРЅСЏ РґСѓР±Р»С–РєР°С‚С–РІ Generic Items"
     
-    IGUI_CUI_Display_EnableTrackDuplicates_Tooltip = "Порівняйте предмет цільового контейнера з інвентарем персонажа.<br>Необладнаний контейнер не буде включено.",
+    IGUI_CUI_Display_EnableTrackDuplicates_Tooltip = "РџРѕСЂС–РІРЅСЏР№С‚Рµ РїСЂРµРґРјРµС‚ С†С–Р»СЊРѕРІРѕРіРѕ РєРѕРЅС‚РµР№РЅРµСЂР° Р· С–РЅРІРµРЅС‚Р°СЂРµРј РїРµСЂСЃРѕРЅР°Р¶Р°.<br>РќРµРѕР±Р»Р°РґРЅР°РЅРёР№ РєРѕРЅС‚РµР№РЅРµСЂ РЅРµ Р±СѓРґРµ РІРєР»СЋС‡РµРЅРѕ.",
 	
-		------------(переклав SerjTheLord)Better lockpicking------------
+		------------(РїРµСЂРµРєР»Р°РІ SerjTheLord)Better lockpicking------------
 
-	IGUI_perks_Lockpicking = "Злам замків",
-	IGUI_perks_Miscellaneous = "Різне",
+	IGUI_perks_Lockpicking = "Р—Р»Р°Рј Р·Р°РјРєС–РІ",
+	IGUI_perks_Miscellaneous = "Р С–Р·РЅРµ",
 }

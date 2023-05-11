@@ -2,7 +2,7 @@ Stash_UA = {
 
 		------------LitSortOGSN------------
 		
-    Stash_AnnotedMap = "Мапа - З позначками",
-    Stash_AnnotatedMap_Prefix = "Мапа",
-    Stash_AnnotedMap_Suffix = "- З позначками",
+    Stash_AnnotedMap = "РњР°РїР° - Р— РїРѕР·РЅР°С‡РєР°РјРё",
+    Stash_AnnotatedMap_Prefix = "РњР°РїР°",
+    Stash_AnnotedMap_Suffix = "- Р— РїРѕР·РЅР°С‡РєР°РјРё",
 }

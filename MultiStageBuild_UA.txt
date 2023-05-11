@@ -3,5 +3,5 @@ MultiStageBuild_UA = {
 		------------ImprovedBuildMenu------------
 
 -- Metal Door Frame
-    MultiStageBuild_UpgradeMetalDoorFrame_1To2 = "Оновити до Металевого вікна 2 рівня",
+    MultiStageBuild_UpgradeMetalDoorFrame_1To2 = "РћРЅРѕРІРёС‚Рё РґРѕ РњРµС‚Р°Р»РµРІРѕРіРѕ РІС–РєРЅР° 2 СЂС–РІРЅСЏ",
 }
